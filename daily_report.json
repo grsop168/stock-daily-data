@@ -1,712 +1,733 @@
 {
   "schema_version": 1,
-  "date": "2026-09-30",
+  "date": "2026-10-08",
   "summary": {
-    "total_assets": 937749.51,
-    "cash": 250200.51,
-    "market_value": 687549.0,
-    "daily_pnl": 11984.74,
-    "cumulative_pnl": -62250.49,
-    "daily_return_pct": 1.2945772390971413,
-    "cumulative_return_pct": -6.225049,
-    "positions_count": 14,
-    "position_pct": 73.31904657566817
+    "total_assets": 939756.54,
+    "cash": 60338.54,
+    "market_value": 879418.0,
+    "daily_pnl": 2007.03,
+    "cumulative_pnl": -60243.46,
+    "daily_return_pct": 0.21402623820086028,
+    "cumulative_return_pct": -6.024346,
+    "positions_count": 21,
+    "position_pct": 93.57934343292786
   },
   "trades": {
     "buys": [
       {
-        "trade_id": "0a4c7031-99f4-5769-8ca3-890a418a87d9",
-        "order_id": "1b4175d8-1b53-58cb-aeed-3acbe1120b22",
-        "code": "301103",
-        "name": "何氏眼科",
+        "trade_id": "04bb43cd-9725-50c0-923d-e3ef296be59a",
+        "order_id": "99f9ff0f-74b9-551a-88a5-ee47ce83a38f",
+        "code": "600657",
+        "name": "信达地产",
+        "side": "BUY",
+        "quantity": 11200,
+        "reference_close": 3.35,
+        "execution_price": 3.35,
+        "gross_amount": 37520.0,
+        "commission": 11.26,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.38,
+        "slippage_cost": 0.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 70.0,
+          "score_date": "2026-09-30"
+        }
+      },
+      {
+        "trade_id": "0e5e4be3-a03c-58b2-b7b1-d1e61793f718",
+        "order_id": "35029425-33d9-5c27-8ec5-35ac1bdb4507",
+        "code": "002382",
+        "name": "蓝帆医疗",
+        "side": "BUY",
+        "quantity": 5700,
+        "reference_close": 6.58,
+        "execution_price": 6.58,
+        "gross_amount": 37506.0,
+        "commission": 11.25,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.38,
+        "slippage_cost": 0.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 78.0,
+          "score_date": "2026-09-30"
+        }
+      },
+      {
+        "trade_id": "17c8e5e2-d14a-52e9-b9f0-8fcaaf104d7e",
+        "order_id": "4e2fb417-1fec-5bb9-b115-6b7e1c2b66ab",
+        "code": "603768",
+        "name": "常青股份",
+        "side": "BUY",
+        "quantity": 3000,
+        "reference_close": 12.22,
+        "execution_price": 12.23,
+        "gross_amount": 36690.0,
+        "commission": 11.01,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.37,
+        "slippage_cost": 30.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 83.0,
+          "score_date": "2026-09-30"
+        }
+      },
+      {
+        "trade_id": "1e99810c-f6e9-5c3d-bf46-ff83ae5d5f6d",
+        "order_id": "16ea664f-3c3c-516b-9fbc-5f90bd27f723",
+        "code": "001266",
+        "name": "宏英智能",
+        "side": "BUY",
+        "quantity": 900,
+        "reference_close": 41.62,
+        "execution_price": 41.64,
+        "gross_amount": 37476.0,
+        "commission": 11.24,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.37,
+        "slippage_cost": 18.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 75.0,
+          "score_date": "2026-09-30"
+        }
+      },
+      {
+        "trade_id": "22afa0bf-9fa7-5dd1-96da-32e357bd8476",
+        "order_id": "492e462a-c456-53ef-b1fa-9a8b8eceeb37",
+        "code": "001211",
+        "name": "双枪科技",
         "side": "BUY",
         "quantity": 2700,
-        "reference_close": 17.03,
-        "execution_price": 17.04,
-        "gross_amount": 46008.0,
-        "commission": 13.8,
+        "reference_close": 27.08,
+        "execution_price": 27.09,
+        "gross_amount": 73143.0,
+        "commission": 21.94,
         "stamp_tax": 0.0,
-        "transfer_fee": 0.46,
+        "transfer_fee": 0.73,
         "slippage_cost": 27.0,
         "signal": {
           "signal_level": "S",
           "signal_text": "S级趋势突破",
           "score": 70.0,
-          "score_date": "2026-09-29"
+          "score_date": "2026-09-30"
         }
       },
       {
-        "trade_id": "387aafb5-8692-5d6f-a0b2-e8ff4c11a825",
-        "order_id": "91ebf1e4-545f-5471-ad96-40d3773bdfbb",
-        "code": "603602",
-        "name": "纵横通信",
+        "trade_id": "2c3e80fb-abbf-5910-8569-bd596b8b7b14",
+        "order_id": "17a72879-005e-572b-b557-48d9e7243e48",
+        "code": "603739",
+        "name": "蔚蓝生物",
         "side": "BUY",
-        "quantity": 3700,
-        "reference_close": 12.37,
-        "execution_price": 12.38,
-        "gross_amount": 45806.0,
-        "commission": 13.74,
+        "quantity": 2700,
+        "reference_close": 13.71,
+        "execution_price": 13.72,
+        "gross_amount": 37044.0,
+        "commission": 11.11,
         "stamp_tax": 0.0,
-        "transfer_fee": 0.46,
-        "slippage_cost": 37.0,
-        "signal": {
-          "signal_level": "S",
-          "signal_text": "S级趋势突破",
-          "score": 79.0,
-          "score_date": "2026-09-29"
-        }
-      },
-      {
-        "trade_id": "3fa8087f-07ce-5873-bf28-a194a4e85bd4",
-        "order_id": "af9df871-1ef2-5b60-b694-e34e39c6b758",
-        "code": "301311",
-        "name": "昆船智能",
-        "side": "BUY",
-        "quantity": 2500,
-        "reference_close": 18.32,
-        "execution_price": 18.33,
-        "gross_amount": 45825.0,
-        "commission": 13.75,
-        "stamp_tax": 0.0,
-        "transfer_fee": 0.46,
-        "slippage_cost": 25.0,
-        "signal": {
-          "signal_level": "S",
-          "signal_text": "S级趋势突破",
-          "score": 74.0,
-          "score_date": "2026-09-29"
-        }
-      },
-      {
-        "trade_id": "5af814eb-136a-58e9-8763-d9b8dfc34939",
-        "order_id": "26421b98-bc17-5225-a450-618b04db641a",
-        "code": "600478",
-        "name": "科力远",
-        "side": "BUY",
-        "quantity": 10300,
-        "reference_close": 4.54,
-        "execution_price": 4.54,
-        "gross_amount": 46762.0,
-        "commission": 14.03,
-        "stamp_tax": 0.0,
-        "transfer_fee": 0.47,
-        "slippage_cost": 0.0,
-        "signal": {
-          "signal_level": "A",
-          "signal_text": "A级超跌反弹",
-          "score": 63.0,
-          "score_date": "2026-09-29"
-        }
-      },
-      {
-        "trade_id": "6568796c-9d0f-5ab5-823d-a3413e283269",
-        "order_id": "ae07c487-382c-5c6b-abbf-4a9e59a799e2",
-        "code": "688335",
-        "name": "复洁科技",
-        "side": "BUY",
-        "quantity": 2600,
-        "reference_close": 17.46,
-        "execution_price": 17.47,
-        "gross_amount": 45422.0,
-        "commission": 13.63,
-        "stamp_tax": 0.0,
-        "transfer_fee": 0.45,
-        "slippage_cost": 26.0,
-        "signal": {
-          "signal_level": "A",
-          "signal_text": "A级超跌反弹",
-          "score": 55.0,
-          "score_date": "2026-09-29"
-        }
-      },
-      {
-        "trade_id": "6c7acaf7-c222-5004-b31e-9bb11e4fd779",
-        "order_id": "f2918030-cc23-552a-a785-f1c2e8e90dcd",
-        "code": "002738",
-        "name": "中矿资源",
-        "side": "BUY",
-        "quantity": 1100,
-        "reference_close": 42.5,
-        "execution_price": 42.52,
-        "gross_amount": 46772.0,
-        "commission": 14.03,
-        "stamp_tax": 0.0,
-        "transfer_fee": 0.47,
-        "slippage_cost": 22.0,
-        "signal": {
-          "signal_level": "A",
-          "signal_text": "A级超跌反弹",
-          "score": 64.0,
-          "score_date": "2026-09-29"
-        }
-      },
-      {
-        "trade_id": "73deab5f-1c69-5b4c-ad24-3e93d045a72b",
-        "order_id": "73bb5f4d-ff1a-557d-9e1c-54119aba2c4b",
-        "code": "603500",
-        "name": "祥和实业",
-        "side": "BUY",
-        "quantity": 4600,
-        "reference_close": 10.05,
-        "execution_price": 10.06,
-        "gross_amount": 46276.0,
-        "commission": 13.88,
-        "stamp_tax": 0.0,
-        "transfer_fee": 0.46,
-        "slippage_cost": 46.0,
-        "signal": {
-          "signal_level": "S",
-          "signal_text": "S级趋势突破",
-          "score": 75.0,
-          "score_date": "2026-09-29"
-        }
-      },
-      {
-        "trade_id": "784ddf41-0c7b-5780-82a3-c114cd4e88ae",
-        "order_id": "15b81a1b-7c08-52b1-9544-dadd56ebf05d",
-        "code": "002074",
-        "name": "国轩高科",
-        "side": "BUY",
-        "quantity": 3100,
-        "reference_close": 29.5,
-        "execution_price": 29.51,
-        "gross_amount": 91481.0,
-        "commission": 27.44,
-        "stamp_tax": 0.0,
-        "transfer_fee": 0.91,
-        "slippage_cost": 31.0,
-        "signal": {
-          "signal_level": "S",
-          "signal_text": "S级趋势突破",
-          "score": 77.0,
-          "score_date": "2026-09-29"
-        }
-      },
-      {
-        "trade_id": "ab6f8a0c-79da-5eb8-a5e1-585900e7d05d",
-        "order_id": "e876a0f2-618f-53ec-9a60-98dd90bb2d92",
-        "code": "300675",
-        "name": "建科院",
-        "side": "BUY",
-        "quantity": 800,
-        "reference_close": 14.48,
-        "execution_price": 14.49,
-        "gross_amount": 11592.0,
-        "commission": 5.0,
-        "stamp_tax": 0.0,
-        "transfer_fee": 0.12,
-        "slippage_cost": 8.0,
+        "transfer_fee": 0.37,
+        "slippage_cost": 27.0,
         "signal": {
           "signal_level": "S",
           "signal_text": "S级趋势突破",
           "score": 72.0,
-          "score_date": "2026-09-29"
+          "score_date": "2026-09-30"
         }
       },
       {
-        "trade_id": "adf535fa-763e-5957-8e5a-943a0e2ac78b",
-        "order_id": "954b7980-bee2-527f-a22c-51891ed35ab8",
-        "code": "300690",
-        "name": "双一科技",
+        "trade_id": "477910d6-9666-5e71-8458-e8d32ef4e274",
+        "order_id": "b441ce62-ba25-57ad-b56c-19803d5209bc",
+        "code": "688099",
+        "name": "晶晨股份",
         "side": "BUY",
-        "quantity": 500,
-        "reference_close": 26.58,
-        "execution_price": 26.59,
-        "gross_amount": 13295.0,
-        "commission": 5.0,
+        "quantity": 700,
+        "reference_close": 94.57,
+        "execution_price": 94.62,
+        "gross_amount": 66234.0,
+        "commission": 19.87,
         "stamp_tax": 0.0,
-        "transfer_fee": 0.13,
-        "slippage_cost": 5.0,
+        "transfer_fee": 0.66,
+        "slippage_cost": 35.0,
         "signal": {
           "signal_level": "S",
           "signal_text": "S级趋势突破",
-          "score": 81.0,
-          "score_date": "2026-09-29"
+          "score": 72.0,
+          "score_date": "2026-09-30"
         }
       },
       {
-        "trade_id": "d696923f-9d76-552f-9ef8-c4ba47b86056",
-        "order_id": "05779c55-a10b-5766-9477-abe74ea8f640",
-        "code": "000858",
-        "name": "五粮液",
+        "trade_id": "4b068773-e78e-5013-bf42-7349ca7160f6",
+        "order_id": "ab28384d-c4bc-5aa0-a047-d39c64646f58",
+        "code": "688639",
+        "name": "华恒生物",
         "side": "BUY",
-        "quantity": 200,
-        "reference_close": 70.06,
-        "execution_price": 70.1,
-        "gross_amount": 14020.0,
-        "commission": 5.0,
+        "quantity": 2000,
+        "reference_close": 18.76,
+        "execution_price": 18.77,
+        "gross_amount": 37540.0,
+        "commission": 11.26,
         "stamp_tax": 0.0,
-        "transfer_fee": 0.14,
-        "slippage_cost": 8.0,
+        "transfer_fee": 0.38,
+        "slippage_cost": 20.0,
         "signal": {
-          "signal_level": "B",
-          "signal_text": "B级价值修复",
-          "score": 55.0,
-          "score_date": "2026-09-29"
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 71.0,
+          "score_date": "2026-09-30"
         }
       },
       {
-        "trade_id": "d7839ff8-22fa-5373-953b-e8ebc683d946",
-        "order_id": "55b4c120-b8e9-5725-b7d1-74f886175287",
-        "code": "603116",
-        "name": "红蜻蜓",
+        "trade_id": "56603213-0658-532c-8cc1-8573eb6f31ea",
+        "order_id": "490b8525-20df-5004-89a9-c7acdddd25b1",
+        "code": "600648",
+        "name": "外高桥",
         "side": "BUY",
-        "quantity": 6400,
-        "reference_close": 7.28,
-        "execution_price": 7.28,
-        "gross_amount": 46592.0,
-        "commission": 13.98,
+        "quantity": 3800,
+        "reference_close": 9.81,
+        "execution_price": 9.81,
+        "gross_amount": 37278.0,
+        "commission": 11.18,
         "stamp_tax": 0.0,
-        "transfer_fee": 0.47,
+        "transfer_fee": 0.37,
+        "slippage_cost": 0.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 71.0,
+          "score_date": "2026-09-30"
+        }
+      },
+      {
+        "trade_id": "5aa2f5bb-2e86-50b3-9286-27e4eb4a059f",
+        "order_id": "53b84afe-ce31-5f27-a308-4d4596815074",
+        "code": "002252",
+        "name": "上海莱士",
+        "side": "BUY",
+        "quantity": 7400,
+        "reference_close": 5.06,
+        "execution_price": 5.06,
+        "gross_amount": 37444.0,
+        "commission": 11.23,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.37,
+        "slippage_cost": 0.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 71.0,
+          "score_date": "2026-09-30"
+        }
+      },
+      {
+        "trade_id": "8214c76a-5ea6-5e3b-a86c-3cd0121e8c12",
+        "order_id": "82e0c976-955e-5dd5-b40b-3c0ed5caa02f",
+        "code": "688707",
+        "name": "振华新材",
+        "side": "BUY",
+        "quantity": 3300,
+        "reference_close": 11.12,
+        "execution_price": 11.13,
+        "gross_amount": 36729.0,
+        "commission": 11.02,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.37,
+        "slippage_cost": 33.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 71.0,
+          "score_date": "2026-09-30"
+        }
+      },
+      {
+        "trade_id": "8b69e1e9-b151-56fe-9f37-52ccbdba1788",
+        "order_id": "926a6eaf-d168-5fac-b44b-6b3c5aec9d6d",
+        "code": "000963",
+        "name": "华东医药",
+        "side": "BUY",
+        "quantity": 1300,
+        "reference_close": 26.95,
+        "execution_price": 26.96,
+        "gross_amount": 35048.0,
+        "commission": 10.51,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.35,
+        "slippage_cost": 13.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 73.0,
+          "score_date": "2026-09-30"
+        }
+      },
+      {
+        "trade_id": "999907da-22d4-5125-8a74-168af514a92f",
+        "order_id": "433cb19d-d68f-5d76-8bd8-574c79306577",
+        "code": "002833",
+        "name": "弘亚数控",
+        "side": "BUY",
+        "quantity": 1900,
+        "reference_close": 19.45,
+        "execution_price": 19.46,
+        "gross_amount": 36974.0,
+        "commission": 11.09,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.37,
+        "slippage_cost": 19.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 80.0,
+          "score_date": "2026-09-30"
+        }
+      },
+      {
+        "trade_id": "b53e1799-2f57-5f6f-82e8-eff7f30716b1",
+        "order_id": "3cb58098-8080-559a-b74a-568a7810bf5b",
+        "code": "002016",
+        "name": "世荣兆业",
+        "side": "BUY",
+        "quantity": 7700,
+        "reference_close": 4.83,
+        "execution_price": 4.83,
+        "gross_amount": 37191.0,
+        "commission": 11.16,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.37,
         "slippage_cost": 0.0,
         "signal": {
           "signal_level": "S",
           "signal_text": "S级趋势突破",
           "score": 75.0,
-          "score_date": "2026-09-29"
+          "score_date": "2026-09-30"
         }
       },
       {
-        "trade_id": "d7f1bff0-f408-5575-a306-fbc2fdda66d7",
-        "order_id": "85f09f13-5f4d-5515-b32c-1bf0e2e2e31d",
-        "code": "600266",
-        "name": "城建发展",
+        "trade_id": "bd1703d4-c2fc-51ed-8b34-404e9f5441e0",
+        "order_id": "8b083c8a-5eaf-5935-be1f-6206a7aca591",
+        "code": "002513",
+        "name": "蓝丰生化",
         "side": "BUY",
-        "quantity": 10600,
-        "reference_close": 4.42,
-        "execution_price": 4.42,
-        "gross_amount": 46852.0,
-        "commission": 14.06,
+        "quantity": 6700,
+        "reference_close": 5.56,
+        "execution_price": 5.56,
+        "gross_amount": 37252.0,
+        "commission": 11.18,
         "stamp_tax": 0.0,
-        "transfer_fee": 0.47,
+        "transfer_fee": 0.37,
         "slippage_cost": 0.0,
         "signal": {
           "signal_level": "S",
           "signal_text": "S级趋势突破",
-          "score": 76.0,
-          "score_date": "2026-09-29"
+          "score": 73.0,
+          "score_date": "2026-09-30"
         }
       },
       {
-        "trade_id": "ee52736a-219a-57fa-9d68-505ef0395515",
-        "order_id": "a733de7b-5414-527a-bc5e-d23642ac4426",
-        "code": "688499",
-        "name": "利元亨",
+        "trade_id": "bf126599-0cf3-5a23-a2f6-ea480d625a57",
+        "order_id": "22f24d64-0643-51da-a71b-afe0f1727d4a",
+        "code": "603968",
+        "name": "醋化股份",
         "side": "BUY",
-        "quantity": 1100,
-        "reference_close": 42.19,
-        "execution_price": 42.21,
-        "gross_amount": 46431.0,
-        "commission": 13.93,
+        "quantity": 3000,
+        "reference_close": 12.3,
+        "execution_price": 12.31,
+        "gross_amount": 36930.0,
+        "commission": 11.08,
         "stamp_tax": 0.0,
-        "transfer_fee": 0.46,
-        "slippage_cost": 22.0,
+        "transfer_fee": 0.37,
+        "slippage_cost": 30.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 70.0,
+          "score_date": "2026-09-30"
+        }
+      },
+      {
+        "trade_id": "d9b87c91-7d8f-5108-bfe4-c26d97746fcc",
+        "order_id": "ca57b55c-e7da-5e0e-9da9-31f6aef40175",
+        "code": "600006",
+        "name": "东风股份",
+        "side": "BUY",
+        "quantity": 6800,
+        "reference_close": 5.5,
+        "execution_price": 5.5,
+        "gross_amount": 37400.0,
+        "commission": 11.22,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.37,
+        "slippage_cost": 0.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 73.0,
+          "score_date": "2026-09-30"
+        }
+      },
+      {
+        "trade_id": "db9ffceb-6cb2-58b7-8b6c-2504b4b8e1a3",
+        "order_id": "fbebdb3b-08ed-5423-958f-47e83579b6a1",
+        "code": "002968",
+        "name": "新大正",
+        "side": "BUY",
+        "quantity": 3700,
+        "reference_close": 9.91,
+        "execution_price": 9.91,
+        "gross_amount": 36667.0,
+        "commission": 11.0,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.37,
+        "slippage_cost": 0.0,
         "signal": {
           "signal_level": "S",
           "signal_text": "S级趋势突破",
           "score": 74.0,
-          "score_date": "2026-09-29"
+          "score_date": "2026-09-30"
+        }
+      },
+      {
+        "trade_id": "e7efd9aa-ad84-5fa6-9338-6e8fc5c0ca10",
+        "order_id": "3c17702f-0b8b-5396-8812-a112b25b5615",
+        "code": "688303",
+        "name": "大全能源",
+        "side": "BUY",
+        "quantity": 2300,
+        "reference_close": 15.73,
+        "execution_price": 15.74,
+        "gross_amount": 36202.0,
+        "commission": 10.86,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.36,
+        "slippage_cost": 23.0,
+        "signal": {
+          "signal_level": "A",
+          "signal_text": "A级超跌反弹",
+          "score": 66.0,
+          "score_date": "2026-09-30"
+        }
+      },
+      {
+        "trade_id": "f7ae6731-0752-589d-926d-1f7e8c34ce88",
+        "order_id": "7c35065b-4f06-5d9a-a144-e4134a5a65fd",
+        "code": "000568",
+        "name": "泸州老窖",
+        "side": "BUY",
+        "quantity": 500,
+        "reference_close": 72.61,
+        "execution_price": 72.65,
+        "gross_amount": 36325.0,
+        "commission": 10.9,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.36,
+        "slippage_cost": 20.0,
+        "signal": {
+          "signal_level": "A",
+          "signal_text": "A级超跌反弹",
+          "score": 58.0,
+          "score_date": "2026-09-30"
         }
       }
     ],
     "sells": [
       {
-        "trade_id": "0be3af45-402c-5342-834e-2506efe485ab",
-        "order_id": "671c0aaf-aaee-5fd0-9a0f-5736e19bae0f",
-        "code": "300599",
-        "name": "雄塑科技",
+        "trade_id": "13cd8e59-6895-500d-9843-bdd4cff1c1ad",
+        "order_id": "85142e7b-dc51-5d0b-bc17-a53aee260979",
+        "code": "600266",
+        "name": "城建发展",
         "side": "SELL",
-        "quantity": 2400,
-        "reference_close": 14.2,
-        "execution_price": 14.19,
-        "gross_amount": 34056.0,
-        "commission": 10.22,
-        "stamp_tax": 17.03,
-        "transfer_fee": 0.34,
-        "slippage_cost": 24.0,
-        "signal": {
-          "signal_level": "D",
-          "signal_text": "D级暂不参与",
-          "score": 67.0,
-          "score_date": "2026-09-29"
-        }
-      },
-      {
-        "trade_id": "0c16d521-9d43-56e1-a846-174a189e1db5",
-        "order_id": "f697d90d-2d42-54af-a216-f1eb2ff9f978",
-        "code": "603755",
-        "name": "日辰股份",
-        "side": "SELL",
-        "quantity": 1300,
-        "reference_close": 25.85,
-        "execution_price": 25.84,
-        "gross_amount": 33592.0,
-        "commission": 10.08,
-        "stamp_tax": 16.8,
-        "transfer_fee": 0.34,
-        "slippage_cost": 13.0,
-        "signal": {
-          "signal_level": "D",
-          "signal_text": "D级暂不参与",
-          "score": 75.0,
-          "score_date": "2026-09-29"
-        }
-      },
-      {
-        "trade_id": "179ee133-842f-547a-840d-efecfec49113",
-        "order_id": "ef7dc19a-b139-52b9-96f3-5715becb37a3",
-        "code": "601218",
-        "name": "吉鑫科技",
-        "side": "SELL",
-        "quantity": 11200,
-        "reference_close": 6.08,
-        "execution_price": 6.08,
-        "gross_amount": 68096.0,
-        "commission": 20.43,
-        "stamp_tax": 34.05,
-        "transfer_fee": 0.68,
+        "quantity": 10600,
+        "reference_close": 4.35,
+        "execution_price": 4.35,
+        "gross_amount": 46110.0,
+        "commission": 13.83,
+        "stamp_tax": 23.06,
+        "transfer_fee": 0.46,
         "slippage_cost": 0.0,
         "signal": {
           "signal_level": "D",
           "signal_text": "D级暂不参与",
           "score": 75.0,
-          "score_date": "2026-09-29"
+          "score_date": "2026-09-30"
         }
       },
       {
-        "trade_id": "2c31421f-cb79-5677-97ed-a87f408e0a50",
-        "order_id": "9bc1db70-a127-5ad1-9b84-b560a5753833",
-        "code": "300207",
-        "name": "欣旺达",
+        "trade_id": "2b0e3875-ef42-5da1-bc81-a3ebf6ab79c0",
+        "order_id": "86a58d1d-74dc-5a0d-8baa-1dbfd14f9955",
+        "code": "300690",
+        "name": "双一科技",
         "side": "SELL",
-        "quantity": 1500,
-        "reference_close": 22.0,
-        "execution_price": 21.99,
-        "gross_amount": 32985.0,
-        "commission": 9.9,
-        "stamp_tax": 16.49,
-        "transfer_fee": 0.33,
-        "slippage_cost": 15.0,
+        "quantity": 1700,
+        "reference_close": 25.7,
+        "execution_price": 25.69,
+        "gross_amount": 43673.0,
+        "commission": 13.1,
+        "stamp_tax": 21.84,
+        "transfer_fee": 0.44,
+        "slippage_cost": 17.0,
         "signal": {
           "signal_level": "D",
           "signal_text": "D级暂不参与",
-          "score": 81.0,
-          "score_date": "2026-09-29"
+          "score": 74.0,
+          "score_date": "2026-09-30"
         }
       },
       {
-        "trade_id": "46c737bd-c38d-54f6-b4b3-c003d4e08a52",
-        "order_id": "d2f57f50-c847-54a3-a413-47f0301fd4f4",
-        "code": "002382",
-        "name": "蓝帆医疗",
+        "trade_id": "32a49269-31df-5371-9c37-630e166a0e45",
+        "order_id": "57611119-ae68-51dd-a904-91524b6c9cfd",
+        "code": "688335",
+        "name": "复洁科技",
         "side": "SELL",
-        "quantity": 5600,
-        "reference_close": 6.32,
-        "execution_price": 6.32,
-        "gross_amount": 35392.0,
-        "commission": 10.62,
-        "stamp_tax": 17.7,
-        "transfer_fee": 0.35,
+        "quantity": 2600,
+        "reference_close": 17.53,
+        "execution_price": 17.52,
+        "gross_amount": 45552.0,
+        "commission": 13.67,
+        "stamp_tax": 22.78,
+        "transfer_fee": 0.46,
+        "slippage_cost": 26.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 52.0,
+          "score_date": "2026-09-30"
+        }
+      },
+      {
+        "trade_id": "5ebfb65a-871c-5307-913f-b1fc8920b8a6",
+        "order_id": "47d5a727-2cea-533d-aa7a-8d852259f714",
+        "code": "600478",
+        "name": "科力远",
+        "side": "SELL",
+        "quantity": 10300,
+        "reference_close": 4.64,
+        "execution_price": 4.64,
+        "gross_amount": 47792.0,
+        "commission": 14.34,
+        "stamp_tax": 23.9,
+        "transfer_fee": 0.48,
         "slippage_cost": 0.0,
-        "signal": {
-          "signal_level": "D",
-          "signal_text": "D级暂不参与",
-          "score": 77.0,
-          "score_date": "2026-09-29"
-        }
-      },
-      {
-        "trade_id": "59eb6761-87c0-5883-ab5c-959fe9feefb4",
-        "order_id": "3a948c31-dbbd-516c-8df4-daa170f7ccc0",
-        "code": "601021",
-        "name": "春秋航空",
-        "side": "SELL",
-        "quantity": 800,
-        "reference_close": 40.76,
-        "execution_price": 40.74,
-        "gross_amount": 32592.0,
-        "commission": 9.78,
-        "stamp_tax": 16.3,
-        "transfer_fee": 0.33,
-        "slippage_cost": 16.0,
-        "signal": {
-          "signal_level": "D",
-          "signal_text": "D级暂不参与",
-          "score": 65.0,
-          "score_date": "2026-09-29"
-        }
-      },
-      {
-        "trade_id": "670a1c0a-f2f9-5fae-9126-648c78efe3d6",
-        "order_id": "1b429989-6610-5086-8963-6c95c04310c1",
-        "code": "600241",
-        "name": "时代万恒",
-        "side": "SELL",
-        "quantity": 3800,
-        "reference_close": 9.72,
-        "execution_price": 9.72,
-        "gross_amount": 36936.0,
-        "commission": 11.08,
-        "stamp_tax": 18.47,
-        "transfer_fee": 0.37,
-        "slippage_cost": 0.0,
-        "signal": {
-          "signal_level": "D",
-          "signal_text": "D级暂不参与",
-          "score": 65.0,
-          "score_date": "2026-09-29"
-        }
-      },
-      {
-        "trade_id": "6d210b53-9891-5500-942b-e210b40816b2",
-        "order_id": "e239205a-c823-5495-92b4-4e8dbb812380",
-        "code": "002296",
-        "name": "辉煌科技",
-        "side": "SELL",
-        "quantity": 3500,
-        "reference_close": 9.42,
-        "execution_price": 9.42,
-        "gross_amount": 32970.0,
-        "commission": 9.89,
-        "stamp_tax": 16.49,
-        "transfer_fee": 0.33,
-        "slippage_cost": 0.0,
-        "signal": {
-          "signal_level": "D",
-          "signal_text": "D级暂不参与",
-          "score": 69.0,
-          "score_date": "2026-09-29"
-        }
-      },
-      {
-        "trade_id": "7481e31e-bdd3-53dd-8f68-b319a72cc4a0",
-        "order_id": "39245137-2cd0-543f-a224-5970558ad5d4",
-        "code": "002614",
-        "name": "奥佳华",
-        "side": "SELL",
-        "quantity": 4200,
-        "reference_close": 7.76,
-        "execution_price": 7.76,
-        "gross_amount": 32592.0,
-        "commission": 9.78,
-        "stamp_tax": 16.3,
-        "transfer_fee": 0.33,
-        "slippage_cost": 0.0,
-        "signal": {
-          "signal_level": "D",
-          "signal_text": "D级暂不参与",
-          "score": 70.0,
-          "score_date": "2026-09-29"
-        }
-      },
-      {
-        "trade_id": "78f0a853-3785-5b45-85d5-27c955567a5f",
-        "order_id": "1dadd17c-8d34-5e47-8fa3-c639854dac1e",
-        "code": "603968",
-        "name": "醋化股份",
-        "side": "SELL",
-        "quantity": 3000,
-        "reference_close": 11.5,
-        "execution_price": 11.49,
-        "gross_amount": 34470.0,
-        "commission": 10.34,
-        "stamp_tax": 17.24,
-        "transfer_fee": 0.34,
-        "slippage_cost": 30.0,
-        "signal": {
-          "signal_level": "D",
-          "signal_text": "D级暂不参与",
-          "score": 70.0,
-          "score_date": "2026-09-29"
-        }
-      },
-      {
-        "trade_id": "7ce91d8f-404d-5cb4-8342-46af8f4c324a",
-        "order_id": "f7fc39b9-c6ba-5287-a5de-d35c84f428e6",
-        "code": "300817",
-        "name": "双飞集团",
-        "side": "SELL",
-        "quantity": 2000,
-        "reference_close": 17.18,
-        "execution_price": 17.17,
-        "gross_amount": 34340.0,
-        "commission": 10.3,
-        "stamp_tax": 17.17,
-        "transfer_fee": 0.34,
-        "slippage_cost": 20.0,
-        "signal": {
-          "signal_level": "D",
-          "signal_text": "D级暂不参与",
-          "score": 76.0,
-          "score_date": "2026-09-29"
-        }
-      },
-      {
-        "trade_id": "80f28c25-1ddb-590c-9a61-7a7c6ae5632d",
-        "order_id": "ac3104c4-d81e-5771-a354-08207b0ca4ac",
-        "code": "603797",
-        "name": "联泰环保",
-        "side": "SELL",
-        "quantity": 6400,
-        "reference_close": 4.82,
-        "execution_price": 4.82,
-        "gross_amount": 30848.0,
-        "commission": 9.25,
-        "stamp_tax": 15.42,
-        "transfer_fee": 0.31,
-        "slippage_cost": 0.0,
-        "signal": {
-          "signal_level": "D",
-          "signal_text": "D级暂不参与",
-          "score": 66.0,
-          "score_date": "2026-09-29"
-        }
-      },
-      {
-        "trade_id": "b8a64e80-3cad-5d0d-b628-95b392ba5b18",
-        "order_id": "3e425310-d334-5fc5-a11a-559ea7060545",
-        "code": "603727",
-        "name": "博迈科",
-        "side": "SELL",
-        "quantity": 1800,
-        "reference_close": 18.71,
-        "execution_price": 18.7,
-        "gross_amount": 33660.0,
-        "commission": 10.1,
-        "stamp_tax": 16.83,
-        "transfer_fee": 0.34,
-        "slippage_cost": 18.0,
-        "signal": {
-          "signal_level": "D",
-          "signal_text": "D级暂不参与",
-          "score": 59.0,
-          "score_date": "2026-09-29"
-        }
-      },
-      {
-        "trade_id": "c55e94c2-908f-5be1-bafa-6ed40adc34bd",
-        "order_id": "19acf525-2dd8-5d94-8422-1adea94fc59f",
-        "code": "600886",
-        "name": "国投电力",
-        "side": "SELL",
-        "quantity": 2200,
-        "reference_close": 15.24,
-        "execution_price": 15.23,
-        "gross_amount": 33506.0,
-        "commission": 10.05,
-        "stamp_tax": 16.75,
-        "transfer_fee": 0.34,
-        "slippage_cost": 22.0,
         "signal": {
           "signal_level": "D",
           "signal_text": "D级暂不参与",
           "score": 60.0,
-          "score_date": "2026-09-29"
+          "score_date": "2026-09-30"
         }
       },
       {
-        "trade_id": "cd444f3c-1ecd-57e2-ac89-5f5ef2284a6f",
-        "order_id": "ebef3f29-88c3-5bf2-a41e-9b281ee3faa5",
-        "code": "002959",
-        "name": "小熊电器",
+        "trade_id": "6020ca86-6e0a-57a3-92e2-cb52d1f80012",
+        "order_id": "284a6e63-28c6-5a97-8f4a-f30831d560cd",
+        "code": "603116",
+        "name": "红蜻蜓",
         "side": "SELL",
-        "quantity": 900,
-        "reference_close": 35.52,
-        "execution_price": 35.5,
-        "gross_amount": 31950.0,
-        "commission": 9.59,
-        "stamp_tax": 15.98,
-        "transfer_fee": 0.32,
-        "slippage_cost": 18.0,
+        "quantity": 6400,
+        "reference_close": 7.15,
+        "execution_price": 7.15,
+        "gross_amount": 45760.0,
+        "commission": 13.73,
+        "stamp_tax": 22.88,
+        "transfer_fee": 0.46,
+        "slippage_cost": 0.0,
         "signal": {
           "signal_level": "D",
           "signal_text": "D级暂不参与",
-          "score": 67.0,
-          "score_date": "2026-09-29"
+          "score": 70.0,
+          "score_date": "2026-09-30"
         }
       },
       {
-        "trade_id": "e77aac57-cc75-5973-9510-8c2eee82d004",
-        "order_id": "25a43c63-cb6a-5f70-ba88-129e071c8bf9",
-        "code": "600356",
-        "name": "恒丰纸业",
+        "trade_id": "622087e3-57a1-5bdb-9cd4-f2d5282a34de",
+        "order_id": "7d248cc4-f225-5cb0-a750-f3a6be4b95e1",
+        "code": "002738",
+        "name": "中矿资源",
         "side": "SELL",
-        "quantity": 6500,
-        "reference_close": 11.46,
-        "execution_price": 11.45,
-        "gross_amount": 74425.0,
-        "commission": 22.33,
-        "stamp_tax": 37.21,
-        "transfer_fee": 0.74,
-        "slippage_cost": 65.0,
+        "quantity": 1100,
+        "reference_close": 41.34,
+        "execution_price": 41.32,
+        "gross_amount": 45452.0,
+        "commission": 13.64,
+        "stamp_tax": 22.73,
+        "transfer_fee": 0.45,
+        "slippage_cost": 22.0,
         "signal": {
           "signal_level": "D",
           "signal_text": "D级暂不参与",
-          "score": 78.0,
-          "score_date": "2026-09-29"
+          "score": 58.0,
+          "score_date": "2026-09-30"
         }
       },
       {
-        "trade_id": "eb5aa959-0b0e-553b-8ce8-67bdceac986d",
-        "order_id": "344e24b6-572e-5be8-bcaf-1b1f97d1720b",
-        "code": "001368",
-        "name": "通达创智",
+        "trade_id": "692fa5a6-1c86-563e-8b4f-49503b9337b8",
+        "order_id": "a4c12a2b-73ef-54c1-b97f-e61e68d30733",
+        "code": "002074",
+        "name": "国轩高科",
         "side": "SELL",
-        "quantity": 1800,
-        "reference_close": 36.85,
-        "execution_price": 36.83,
-        "gross_amount": 66294.0,
-        "commission": 19.89,
-        "stamp_tax": 33.15,
-        "transfer_fee": 0.66,
-        "slippage_cost": 36.0,
+        "quantity": 700,
+        "reference_close": 31.3,
+        "execution_price": 31.28,
+        "gross_amount": 21896.0,
+        "commission": 6.57,
+        "stamp_tax": 10.95,
+        "transfer_fee": 0.22,
+        "slippage_cost": 14.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 80.0,
+          "score_date": "2026-09-30"
+        }
+      },
+      {
+        "trade_id": "7cfb9feb-4d75-5eed-b5ff-d18b39fdd3ba",
+        "order_id": "750bd67c-523b-52db-8efb-94730c508f51",
+        "code": "301311",
+        "name": "昆船智能",
+        "side": "SELL",
+        "quantity": 2500,
+        "reference_close": 17.38,
+        "execution_price": 17.37,
+        "gross_amount": 43425.0,
+        "commission": 13.03,
+        "stamp_tax": 21.71,
+        "transfer_fee": 0.43,
+        "slippage_cost": 25.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 69.0,
+          "score_date": "2026-09-30"
+        }
+      },
+      {
+        "trade_id": "c50a8408-2f84-5808-b650-c26043a4105d",
+        "order_id": "88735e39-6a8c-5697-91ba-1349c9f83a79",
+        "code": "300675",
+        "name": "建科院",
+        "side": "SELL",
+        "quantity": 3200,
+        "reference_close": 15.03,
+        "execution_price": 15.02,
+        "gross_amount": 48064.0,
+        "commission": 14.42,
+        "stamp_tax": 24.03,
+        "transfer_fee": 0.48,
+        "slippage_cost": 32.0,
         "signal": {
           "signal_level": "D",
           "signal_text": "D级暂不参与",
           "score": 65.0,
-          "score_date": "2026-09-29"
+          "score_date": "2026-09-30"
         }
       },
       {
-        "trade_id": "f617046b-7fea-52a7-83bc-1546f366e156",
-        "order_id": "097e4531-72e0-5f07-9b2e-d753acc80eb5",
-        "code": "300908",
-        "name": "仲景食品",
+        "trade_id": "dc8585c3-39c5-5cf0-93da-df15ba20fbbc",
+        "order_id": "7e843c9f-f095-5692-bec9-96210f04f78d",
+        "code": "603602",
+        "name": "纵横通信",
         "side": "SELL",
-        "quantity": 2000,
-        "reference_close": 17.23,
-        "execution_price": 17.22,
-        "gross_amount": 34440.0,
-        "commission": 10.33,
-        "stamp_tax": 17.22,
-        "transfer_fee": 0.34,
-        "slippage_cost": 20.0,
+        "quantity": 3700,
+        "reference_close": 12.18,
+        "execution_price": 12.17,
+        "gross_amount": 45029.0,
+        "commission": 13.51,
+        "stamp_tax": 22.51,
+        "transfer_fee": 0.45,
+        "slippage_cost": 37.0,
         "signal": {
           "signal_level": "D",
           "signal_text": "D级暂不参与",
-          "score": 55.0,
-          "score_date": "2026-09-29"
+          "score": 75.0,
+          "score_date": "2026-09-30"
         }
       },
       {
-        "trade_id": "f8322e8b-0f26-5db6-a18e-f8d0b2e836be",
-        "order_id": "e9d8943a-86b7-5728-9d7e-914379d7c0e0",
-        "code": "001211",
-        "name": "双枪科技",
+        "trade_id": "dda9b61e-2b27-59dd-b6c7-6791de36b9b4",
+        "order_id": "9d3e84a4-3050-5e61-9853-f51de4760f08",
+        "code": "603500",
+        "name": "祥和实业",
         "side": "SELL",
-        "quantity": 2400,
-        "reference_close": 29.52,
-        "execution_price": 29.51,
-        "gross_amount": 70824.0,
-        "commission": 21.25,
-        "stamp_tax": 35.41,
-        "transfer_fee": 0.71,
+        "quantity": 4600,
+        "reference_close": 9.83,
+        "execution_price": 9.83,
+        "gross_amount": 45218.0,
+        "commission": 13.57,
+        "stamp_tax": 22.61,
+        "transfer_fee": 0.45,
+        "slippage_cost": 0.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 74.0,
+          "score_date": "2026-09-30"
+        }
+      },
+      {
+        "trade_id": "e463d63d-b8bf-5148-9e82-81c403e0251d",
+        "order_id": "00dd4da5-e624-5331-81a0-92d59f9f04ba",
+        "code": "301103",
+        "name": "何氏眼科",
+        "side": "SELL",
+        "quantity": 2700,
+        "reference_close": 17.04,
+        "execution_price": 17.03,
+        "gross_amount": 45981.0,
+        "commission": 13.79,
+        "stamp_tax": 22.99,
+        "transfer_fee": 0.46,
+        "slippage_cost": 27.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 70.0,
+          "score_date": "2026-09-30"
+        }
+      },
+      {
+        "trade_id": "f67ad3b0-a337-5b33-89da-7a210ec7c815",
+        "order_id": "327994c6-7004-5fa8-954e-ffe6898346a0",
+        "code": "688499",
+        "name": "利元亨",
+        "side": "SELL",
+        "quantity": 1100,
+        "reference_close": 44.99,
+        "execution_price": 44.97,
+        "gross_amount": 49467.0,
+        "commission": 14.84,
+        "stamp_tax": 24.73,
+        "transfer_fee": 0.49,
+        "slippage_cost": 22.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 74.0,
+          "score_date": "2026-09-30"
+        }
+      },
+      {
+        "trade_id": "fb79b332-ab14-534b-aafe-0ee2124b3e16",
+        "order_id": "242eefbd-797b-527a-82a7-8879e5f99d6b",
+        "code": "000858",
+        "name": "五粮液",
+        "side": "SELL",
+        "quantity": 600,
+        "reference_close": 70.14,
+        "execution_price": 70.1,
+        "gross_amount": 42060.0,
+        "commission": 12.62,
+        "stamp_tax": 21.03,
+        "transfer_fee": 0.42,
         "slippage_cost": 24.0,
         "signal": {
           "signal_level": "D",
           "signal_text": "D级暂不参与",
-          "score": 73.0,
-          "score_date": "2026-09-29"
+          "score": 58.0,
+          "score_date": "2026-09-30"
         }
       }
     ]
@@ -715,671 +736,804 @@
     {
       "code": "002074",
       "name": "国轩高科",
-      "quantity": 3100,
-      "sellable_quantity": 0,
+      "quantity": 2400,
+      "sellable_quantity": 2400,
       "average_cost": 29.52,
-      "close": 29.5,
-      "market_value": 91450.0,
-      "unrealized_pnl": -62.0,
-      "weight_pct": 9.752071211426173,
+      "close": 31.3,
+      "market_value": 75120.0,
+      "unrealized_pnl": 4272.0,
+      "weight_pct": 7.993559693662785,
       "signal": {
         "signal_level": "S",
         "signal_text": "S级趋势突破",
         "score": 80.0,
-        "score_date": "2026-09-30"
+        "score_date": "2026-10-08"
       }
     },
     {
-      "code": "600266",
-      "name": "城建发展",
-      "quantity": 10600,
+      "code": "001211",
+      "name": "双枪科技",
+      "quantity": 2700,
       "sellable_quantity": 0,
-      "average_cost": 4.42,
-      "close": 4.42,
-      "market_value": 46852.0,
-      "unrealized_pnl": 0.0,
-      "weight_pct": 4.996216953501794,
+      "average_cost": 27.1,
+      "close": 27.08,
+      "market_value": 73116.0,
+      "unrealized_pnl": -54.0,
+      "weight_pct": 7.780312973400536,
       "signal": {
         "signal_level": "D",
         "signal_text": "D级暂不参与",
-        "score": 75.0,
-        "score_date": "2026-09-30"
+        "score": 73.0,
+        "score_date": "2026-10-08"
       }
     },
     {
-      "code": "600478",
-      "name": "科力远",
-      "quantity": 10300,
+      "code": "688099",
+      "name": "晶晨股份",
+      "quantity": 700,
       "sellable_quantity": 0,
-      "average_cost": 4.54,
-      "close": 4.54,
-      "market_value": 46762.0,
-      "unrealized_pnl": 0.0,
-      "weight_pct": 4.986619507804382,
-      "signal": {
-        "signal_level": "D",
-        "signal_text": "D级暂不参与",
-        "score": 60.0,
-        "score_date": "2026-09-30"
-      }
-    },
-    {
-      "code": "002738",
-      "name": "中矿资源",
-      "quantity": 1100,
-      "sellable_quantity": 0,
-      "average_cost": 42.53,
-      "close": 42.5,
-      "market_value": 46750.0,
-      "unrealized_pnl": -33.0,
-      "weight_pct": 4.98533984837806,
-      "signal": {
-        "signal_level": "D",
-        "signal_text": "D级暂不参与",
-        "score": 58.0,
-        "score_date": "2026-09-30"
-      }
-    },
-    {
-      "code": "603116",
-      "name": "红蜻蜓",
-      "quantity": 6400,
-      "sellable_quantity": 0,
-      "average_cost": 7.28,
-      "close": 7.28,
-      "market_value": 46592.0,
-      "unrealized_pnl": 0.0,
-      "weight_pct": 4.968490999264825,
-      "signal": {
-        "signal_level": "D",
-        "signal_text": "D级暂不参与",
-        "score": 70.0,
-        "score_date": "2026-09-30"
-      }
-    },
-    {
-      "code": "688499",
-      "name": "利元亨",
-      "quantity": 1100,
-      "sellable_quantity": 0,
-      "average_cost": 42.22,
-      "close": 42.19,
-      "market_value": 46409.0,
-      "unrealized_pnl": -33.0,
-      "weight_pct": 4.9489761930134195,
-      "signal": {
-        "signal_level": "D",
-        "signal_text": "D级暂不参与",
-        "score": 74.0,
-        "score_date": "2026-09-30"
-      }
-    },
-    {
-      "code": "300675",
-      "name": "建科院",
-      "quantity": 3200,
-      "sellable_quantity": 2400,
-      "average_cost": 14.34,
-      "close": 14.48,
-      "market_value": 46336.0,
-      "unrealized_pnl": 448.0,
-      "weight_pct": 4.941191598169963,
+      "average_cost": 94.65,
+      "close": 94.57,
+      "market_value": 66199.0,
+      "unrealized_pnl": -56.0,
+      "weight_pct": 7.044271274770804,
       "signal": {
         "signal_level": "D",
         "signal_text": "D级暂不参与",
         "score": 65.0,
-        "score_date": "2026-09-30"
+        "score_date": "2026-10-08"
       }
     },
     {
-      "code": "603500",
-      "name": "祥和实业",
-      "quantity": 4600,
+      "code": "600657",
+      "name": "信达地产",
+      "quantity": 11200,
       "sellable_quantity": 0,
-      "average_cost": 10.06,
-      "close": 10.05,
-      "market_value": 46230.0,
-      "unrealized_pnl": -46.0,
-      "weight_pct": 4.929887939904122,
+      "average_cost": 3.35,
+      "close": 3.35,
+      "market_value": 37520.0,
+      "unrealized_pnl": 0.0,
+      "weight_pct": 3.9925234252692725,
       "signal": {
         "signal_level": "D",
         "signal_text": "D级暂不参与",
-        "score": 74.0,
-        "score_date": "2026-09-30"
+        "score": 64.0,
+        "score_date": "2026-10-08"
       }
     },
     {
-      "code": "301103",
-      "name": "何氏眼科",
-      "quantity": 2700,
+      "code": "688639",
+      "name": "华恒生物",
+      "quantity": 2000,
       "sellable_quantity": 0,
-      "average_cost": 17.05,
-      "close": 17.03,
-      "market_value": 45981.0,
-      "unrealized_pnl": -54.0,
-      "weight_pct": 4.903335006807948,
+      "average_cost": 18.78,
+      "close": 18.76,
+      "market_value": 37520.0,
+      "unrealized_pnl": -40.0,
+      "weight_pct": 3.9925234252692725,
       "signal": {
         "signal_level": "D",
         "signal_text": "D级暂不参与",
         "score": 70.0,
-        "score_date": "2026-09-30"
+        "score_date": "2026-10-08"
       }
     },
     {
-      "code": "301311",
-      "name": "昆船智能",
-      "quantity": 2500,
+      "code": "002382",
+      "name": "蓝帆医疗",
+      "quantity": 5700,
       "sellable_quantity": 0,
-      "average_cost": 18.34,
-      "close": 18.32,
-      "market_value": 45800.0,
-      "unrealized_pnl": -50.0,
-      "weight_pct": 4.884033477127597,
+      "average_cost": 6.58,
+      "close": 6.58,
+      "market_value": 37506.0,
+      "unrealized_pnl": 0.0,
+      "weight_pct": 3.9910336777225304,
       "signal": {
-        "signal_level": "D",
-        "signal_text": "D级暂不参与",
-        "score": 69.0,
-        "score_date": "2026-09-30"
+        "signal_level": "S",
+        "signal_text": "S级趋势突破",
+        "score": 74.0,
+        "score_date": "2026-10-08"
       }
     },
     {
-      "code": "603602",
-      "name": "纵横通信",
-      "quantity": 3700,
+      "code": "001266",
+      "name": "宏英智能",
+      "quantity": 900,
       "sellable_quantity": 0,
-      "average_cost": 12.38,
-      "close": 12.37,
-      "market_value": 45769.0,
-      "unrealized_pnl": -37.0,
-      "weight_pct": 4.880727690276266,
+      "average_cost": 41.65,
+      "close": 41.62,
+      "market_value": 37458.0,
+      "unrealized_pnl": -27.0,
+      "weight_pct": 3.985925971847985,
       "signal": {
-        "signal_level": "D",
-        "signal_text": "D级暂不参与",
+        "signal_level": "S",
+        "signal_text": "S级趋势突破",
         "score": 75.0,
-        "score_date": "2026-09-30"
+        "score_date": "2026-10-08"
       }
     },
     {
-      "code": "688335",
-      "name": "复洁科技",
-      "quantity": 2600,
+      "code": "002252",
+      "name": "上海莱士",
+      "quantity": 7400,
       "sellable_quantity": 0,
-      "average_cost": 17.48,
-      "close": 17.46,
-      "market_value": 45396.0,
-      "unrealized_pnl": -52.0,
-      "weight_pct": 4.840951609774768,
-      "signal": {
-        "signal_level": "D",
-        "signal_text": "D级暂不参与",
-        "score": 52.0,
-        "score_date": "2026-09-30"
-      }
-    },
-    {
-      "code": "300690",
-      "name": "双一科技",
-      "quantity": 1700,
-      "sellable_quantity": 1200,
-      "average_cost": 26.67,
-      "close": 26.58,
-      "market_value": 45186.0,
-      "unrealized_pnl": -153.0,
-      "weight_pct": 4.818557569814139,
+      "average_cost": 5.06,
+      "close": 5.06,
+      "market_value": 37444.0,
+      "unrealized_pnl": 0.0,
+      "weight_pct": 3.984436224301243,
       "signal": {
         "signal_level": "D",
         "signal_text": "D级暂不参与",
         "score": 74.0,
-        "score_date": "2026-09-30"
+        "score_date": "2026-10-08"
       }
     },
     {
-      "code": "000858",
-      "name": "五粮液",
-      "quantity": 600,
-      "sellable_quantity": 400,
-      "average_cost": 69.35,
-      "close": 70.06,
-      "market_value": 42036.0,
-      "unrealized_pnl": 426.0,
-      "weight_pct": 4.4826469704047085,
+      "code": "600006",
+      "name": "东风股份",
+      "quantity": 6800,
+      "sellable_quantity": 0,
+      "average_cost": 5.5,
+      "close": 5.5,
+      "market_value": 37400.0,
+      "unrealized_pnl": 0.0,
+      "weight_pct": 3.9797541605829103,
       "signal": {
         "signal_level": "D",
         "signal_text": "D级暂不参与",
-        "score": 58.0,
-        "score_date": "2026-09-30"
+        "score": 71.0,
+        "score_date": "2026-10-08"
+      }
+    },
+    {
+      "code": "600648",
+      "name": "外高桥",
+      "quantity": 3800,
+      "sellable_quantity": 0,
+      "average_cost": 9.81,
+      "close": 9.81,
+      "market_value": 37278.0,
+      "unrealized_pnl": 0.0,
+      "weight_pct": 3.9667720748184414,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 67.0,
+        "score_date": "2026-10-08"
+      }
+    },
+    {
+      "code": "002513",
+      "name": "蓝丰生化",
+      "quantity": 6700,
+      "sellable_quantity": 0,
+      "average_cost": 5.56,
+      "close": 5.56,
+      "market_value": 37252.0,
+      "unrealized_pnl": 0.0,
+      "weight_pct": 3.9640054008030634,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 69.0,
+        "score_date": "2026-10-08"
+      }
+    },
+    {
+      "code": "002016",
+      "name": "世荣兆业",
+      "quantity": 7700,
+      "sellable_quantity": 0,
+      "average_cost": 4.83,
+      "close": 4.83,
+      "market_value": 37191.0,
+      "unrealized_pnl": 0.0,
+      "weight_pct": 3.957514357920829,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 69.0,
+        "score_date": "2026-10-08"
+      }
+    },
+    {
+      "code": "603739",
+      "name": "蔚蓝生物",
+      "quantity": 2700,
+      "sellable_quantity": 0,
+      "average_cost": 13.72,
+      "close": 13.71,
+      "market_value": 37017.0,
+      "unrealized_pnl": -27.0,
+      "weight_pct": 3.938998924125604,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 68.0,
+        "score_date": "2026-10-08"
+      }
+    },
+    {
+      "code": "002833",
+      "name": "弘亚数控",
+      "quantity": 1900,
+      "sellable_quantity": 0,
+      "average_cost": 19.47,
+      "close": 19.45,
+      "market_value": 36955.0,
+      "unrealized_pnl": -38.0,
+      "weight_pct": 3.9324014707043164,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 73.0,
+        "score_date": "2026-10-08"
+      }
+    },
+    {
+      "code": "603968",
+      "name": "醋化股份",
+      "quantity": 3000,
+      "sellable_quantity": 0,
+      "average_cost": 12.31,
+      "close": 12.3,
+      "market_value": 36900.0,
+      "unrealized_pnl": -30.0,
+      "weight_pct": 3.9265488910564006,
+      "signal": {
+        "signal_level": "S",
+        "signal_text": "S级趋势突破",
+        "score": 70.0,
+        "score_date": "2026-10-08"
+      }
+    },
+    {
+      "code": "688707",
+      "name": "振华新材",
+      "quantity": 3300,
+      "sellable_quantity": 0,
+      "average_cost": 11.13,
+      "close": 11.12,
+      "market_value": 36696.0,
+      "unrealized_pnl": -33.0,
+      "weight_pct": 3.9048411410895842,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 63.0,
+        "score_date": "2026-10-08"
+      }
+    },
+    {
+      "code": "002968",
+      "name": "新大正",
+      "quantity": 3700,
+      "sellable_quantity": 0,
+      "average_cost": 9.91,
+      "close": 9.91,
+      "market_value": 36667.0,
+      "unrealized_pnl": 0.0,
+      "weight_pct": 3.901755235457047,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 71.0,
+        "score_date": "2026-10-08"
+      }
+    },
+    {
+      "code": "603768",
+      "name": "常青股份",
+      "quantity": 3000,
+      "sellable_quantity": 0,
+      "average_cost": 12.23,
+      "close": 12.22,
+      "market_value": 36660.0,
+      "unrealized_pnl": -30.0,
+      "weight_pct": 3.9010103616836758,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 83.0,
+        "score_date": "2026-10-08"
+      }
+    },
+    {
+      "code": "000568",
+      "name": "泸州老窖",
+      "quantity": 500,
+      "sellable_quantity": 0,
+      "average_cost": 72.67,
+      "close": 72.61,
+      "market_value": 36305.0,
+      "unrealized_pnl": -30.0,
+      "weight_pct": 3.863234620319854,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 53.0,
+        "score_date": "2026-10-08"
+      }
+    },
+    {
+      "code": "688303",
+      "name": "大全能源",
+      "quantity": 2300,
+      "sellable_quantity": 0,
+      "average_cost": 15.74,
+      "close": 15.73,
+      "market_value": 36179.0,
+      "unrealized_pnl": -23.0,
+      "weight_pct": 3.849826892399174,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 63.0,
+        "score_date": "2026-10-08"
+      }
+    },
+    {
+      "code": "000963",
+      "name": "华东医药",
+      "quantity": 1300,
+      "sellable_quantity": 0,
+      "average_cost": 26.97,
+      "close": 26.95,
+      "market_value": 35035.0,
+      "unrealized_pnl": -26.0,
+      "weight_pct": 3.7280932357225205,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 66.0,
+        "score_date": "2026-10-08"
       }
     }
   ],
   "position_changes": {
     "opened": [
       {
-        "code": "002074",
-        "name": "国轩高科",
+        "code": "000568",
+        "name": "泸州老窖",
         "quantity_before": 0,
-        "quantity_after": 3100,
-        "quantity_change": 3100
+        "quantity_after": 500,
+        "quantity_change": 500
       },
       {
-        "code": "002738",
-        "name": "中矿资源",
+        "code": "000963",
+        "name": "华东医药",
         "quantity_before": 0,
-        "quantity_after": 1100,
-        "quantity_change": 1100
+        "quantity_after": 1300,
+        "quantity_change": 1300
       },
       {
-        "code": "301103",
-        "name": "何氏眼科",
+        "code": "001211",
+        "name": "双枪科技",
         "quantity_before": 0,
         "quantity_after": 2700,
         "quantity_change": 2700
       },
       {
-        "code": "301311",
-        "name": "昆船智能",
+        "code": "001266",
+        "name": "宏英智能",
         "quantity_before": 0,
-        "quantity_after": 2500,
-        "quantity_change": 2500
+        "quantity_after": 900,
+        "quantity_change": 900
       },
       {
-        "code": "600266",
-        "name": "城建发展",
+        "code": "002016",
+        "name": "世荣兆业",
         "quantity_before": 0,
-        "quantity_after": 10600,
-        "quantity_change": 10600
+        "quantity_after": 7700,
+        "quantity_change": 7700
       },
       {
-        "code": "600478",
-        "name": "科力远",
+        "code": "002252",
+        "name": "上海莱士",
         "quantity_before": 0,
-        "quantity_after": 10300,
-        "quantity_change": 10300
+        "quantity_after": 7400,
+        "quantity_change": 7400
       },
       {
-        "code": "603116",
-        "name": "红蜻蜓",
+        "code": "002382",
+        "name": "蓝帆医疗",
         "quantity_before": 0,
-        "quantity_after": 6400,
-        "quantity_change": 6400
+        "quantity_after": 5700,
+        "quantity_change": 5700
       },
       {
-        "code": "603500",
-        "name": "祥和实业",
+        "code": "002513",
+        "name": "蓝丰生化",
         "quantity_before": 0,
-        "quantity_after": 4600,
-        "quantity_change": 4600
+        "quantity_after": 6700,
+        "quantity_change": 6700
       },
       {
-        "code": "603602",
-        "name": "纵横通信",
+        "code": "002833",
+        "name": "弘亚数控",
+        "quantity_before": 0,
+        "quantity_after": 1900,
+        "quantity_change": 1900
+      },
+      {
+        "code": "002968",
+        "name": "新大正",
         "quantity_before": 0,
         "quantity_after": 3700,
         "quantity_change": 3700
       },
       {
-        "code": "688335",
-        "name": "复洁科技",
+        "code": "600006",
+        "name": "东风股份",
         "quantity_before": 0,
-        "quantity_after": 2600,
-        "quantity_change": 2600
+        "quantity_after": 6800,
+        "quantity_change": 6800
       },
       {
-        "code": "688499",
-        "name": "利元亨",
+        "code": "600648",
+        "name": "外高桥",
         "quantity_before": 0,
-        "quantity_after": 1100,
-        "quantity_change": 1100
+        "quantity_after": 3800,
+        "quantity_change": 3800
+      },
+      {
+        "code": "600657",
+        "name": "信达地产",
+        "quantity_before": 0,
+        "quantity_after": 11200,
+        "quantity_change": 11200
+      },
+      {
+        "code": "603739",
+        "name": "蔚蓝生物",
+        "quantity_before": 0,
+        "quantity_after": 2700,
+        "quantity_change": 2700
+      },
+      {
+        "code": "603768",
+        "name": "常青股份",
+        "quantity_before": 0,
+        "quantity_after": 3000,
+        "quantity_change": 3000
+      },
+      {
+        "code": "603968",
+        "name": "醋化股份",
+        "quantity_before": 0,
+        "quantity_after": 3000,
+        "quantity_change": 3000
+      },
+      {
+        "code": "688099",
+        "name": "晶晨股份",
+        "quantity_before": 0,
+        "quantity_after": 700,
+        "quantity_change": 700
+      },
+      {
+        "code": "688303",
+        "name": "大全能源",
+        "quantity_before": 0,
+        "quantity_after": 2300,
+        "quantity_change": 2300
+      },
+      {
+        "code": "688639",
+        "name": "华恒生物",
+        "quantity_before": 0,
+        "quantity_after": 2000,
+        "quantity_change": 2000
+      },
+      {
+        "code": "688707",
+        "name": "振华新材",
+        "quantity_before": 0,
+        "quantity_after": 3300,
+        "quantity_change": 3300
       }
     ],
     "closed": [
       {
-        "code": "001211",
-        "name": "双枪科技",
-        "quantity_before": 2400,
+        "code": "000858",
+        "name": "五粮液",
+        "quantity_before": 600,
         "quantity_after": 0,
-        "quantity_change": -2400
+        "quantity_change": -600
       },
       {
-        "code": "001368",
-        "name": "通达创智",
-        "quantity_before": 1800,
+        "code": "002738",
+        "name": "中矿资源",
+        "quantity_before": 1100,
         "quantity_after": 0,
-        "quantity_change": -1800
+        "quantity_change": -1100
       },
       {
-        "code": "002296",
-        "name": "辉煌科技",
-        "quantity_before": 3500,
+        "code": "300675",
+        "name": "建科院",
+        "quantity_before": 3200,
         "quantity_after": 0,
-        "quantity_change": -3500
+        "quantity_change": -3200
       },
       {
-        "code": "002382",
-        "name": "蓝帆医疗",
-        "quantity_before": 5600,
+        "code": "300690",
+        "name": "双一科技",
+        "quantity_before": 1700,
         "quantity_after": 0,
-        "quantity_change": -5600
+        "quantity_change": -1700
       },
       {
-        "code": "002614",
-        "name": "奥佳华",
-        "quantity_before": 4200,
+        "code": "301103",
+        "name": "何氏眼科",
+        "quantity_before": 2700,
         "quantity_after": 0,
-        "quantity_change": -4200
+        "quantity_change": -2700
       },
       {
-        "code": "002959",
-        "name": "小熊电器",
-        "quantity_before": 900,
+        "code": "301311",
+        "name": "昆船智能",
+        "quantity_before": 2500,
         "quantity_after": 0,
-        "quantity_change": -900
+        "quantity_change": -2500
       },
       {
-        "code": "300207",
-        "name": "欣旺达",
-        "quantity_before": 1500,
+        "code": "600266",
+        "name": "城建发展",
+        "quantity_before": 10600,
         "quantity_after": 0,
-        "quantity_change": -1500
+        "quantity_change": -10600
       },
       {
-        "code": "300599",
-        "name": "雄塑科技",
-        "quantity_before": 2400,
+        "code": "600478",
+        "name": "科力远",
+        "quantity_before": 10300,
         "quantity_after": 0,
-        "quantity_change": -2400
+        "quantity_change": -10300
       },
       {
-        "code": "300817",
-        "name": "双飞集团",
-        "quantity_before": 2000,
-        "quantity_after": 0,
-        "quantity_change": -2000
-      },
-      {
-        "code": "300908",
-        "name": "仲景食品",
-        "quantity_before": 2000,
-        "quantity_after": 0,
-        "quantity_change": -2000
-      },
-      {
-        "code": "600241",
-        "name": "时代万恒",
-        "quantity_before": 3800,
-        "quantity_after": 0,
-        "quantity_change": -3800
-      },
-      {
-        "code": "600356",
-        "name": "恒丰纸业",
-        "quantity_before": 6500,
-        "quantity_after": 0,
-        "quantity_change": -6500
-      },
-      {
-        "code": "600886",
-        "name": "国投电力",
-        "quantity_before": 2200,
-        "quantity_after": 0,
-        "quantity_change": -2200
-      },
-      {
-        "code": "601021",
-        "name": "春秋航空",
-        "quantity_before": 800,
-        "quantity_after": 0,
-        "quantity_change": -800
-      },
-      {
-        "code": "601218",
-        "name": "吉鑫科技",
-        "quantity_before": 11200,
-        "quantity_after": 0,
-        "quantity_change": -11200
-      },
-      {
-        "code": "603727",
-        "name": "博迈科",
-        "quantity_before": 1800,
-        "quantity_after": 0,
-        "quantity_change": -1800
-      },
-      {
-        "code": "603755",
-        "name": "日辰股份",
-        "quantity_before": 1300,
-        "quantity_after": 0,
-        "quantity_change": -1300
-      },
-      {
-        "code": "603797",
-        "name": "联泰环保",
+        "code": "603116",
+        "name": "红蜻蜓",
         "quantity_before": 6400,
         "quantity_after": 0,
         "quantity_change": -6400
       },
       {
-        "code": "603968",
-        "name": "醋化股份",
-        "quantity_before": 3000,
+        "code": "603500",
+        "name": "祥和实业",
+        "quantity_before": 4600,
         "quantity_after": 0,
-        "quantity_change": -3000
-      }
-    ],
-    "increased": [
-      {
-        "code": "000858",
-        "name": "五粮液",
-        "quantity_before": 400,
-        "quantity_after": 600,
-        "quantity_change": 200
+        "quantity_change": -4600
       },
       {
-        "code": "300675",
-        "name": "建科院",
-        "quantity_before": 2400,
-        "quantity_after": 3200,
-        "quantity_change": 800
+        "code": "603602",
+        "name": "纵横通信",
+        "quantity_before": 3700,
+        "quantity_after": 0,
+        "quantity_change": -3700
       },
       {
-        "code": "300690",
-        "name": "双一科技",
-        "quantity_before": 1200,
-        "quantity_after": 1700,
-        "quantity_change": 500
+        "code": "688335",
+        "name": "复洁科技",
+        "quantity_before": 2600,
+        "quantity_after": 0,
+        "quantity_change": -2600
+      },
+      {
+        "code": "688499",
+        "name": "利元亨",
+        "quantity_before": 1100,
+        "quantity_after": 0,
+        "quantity_change": -1100
       }
     ],
-    "reduced": []
+    "increased": [],
+    "reduced": [
+      {
+        "code": "002074",
+        "name": "国轩高科",
+        "quantity_before": 3100,
+        "quantity_after": 2400,
+        "quantity_change": -700
+      }
+    ]
   },
   "score_changes": [
     {
+      "code": "000568",
+      "name": "泸州老窖",
+      "previous_score": 58.0,
+      "current_score": 53.0,
+      "change": -5.0
+    },
+    {
       "code": "000858",
       "name": "五粮液",
-      "previous_score": 55.0,
-      "current_score": 58.0,
-      "change": 3.0
+      "previous_score": 58.0,
+      "current_score": 55.0,
+      "change": -3.0
+    },
+    {
+      "code": "000963",
+      "name": "华东医药",
+      "previous_score": 73.0,
+      "current_score": 66.0,
+      "change": -7.0
     },
     {
       "code": "001211",
       "name": "双枪科技",
-      "previous_score": 73.0,
-      "current_score": 70.0,
-      "change": -3.0
-    },
-    {
-      "code": "001368",
-      "name": "通达创智",
-      "previous_score": 65.0,
+      "previous_score": 70.0,
       "current_score": 73.0,
-      "change": 8.0
-    },
-    {
-      "code": "002074",
-      "name": "国轩高科",
-      "previous_score": 77.0,
-      "current_score": 80.0,
       "change": 3.0
     },
     {
-      "code": "002296",
-      "name": "辉煌科技",
-      "previous_score": 69.0,
-      "current_score": 66.0,
-      "change": -3.0
+      "code": "002016",
+      "name": "世荣兆业",
+      "previous_score": 75.0,
+      "current_score": 69.0,
+      "change": -6.0
+    },
+    {
+      "code": "002252",
+      "name": "上海莱士",
+      "previous_score": 71.0,
+      "current_score": 74.0,
+      "change": 3.0
     },
     {
       "code": "002382",
       "name": "蓝帆医疗",
-      "previous_score": 77.0,
-      "current_score": 78.0,
-      "change": 1.0
+      "previous_score": 78.0,
+      "current_score": 74.0,
+      "change": -4.0
+    },
+    {
+      "code": "002513",
+      "name": "蓝丰生化",
+      "previous_score": 73.0,
+      "current_score": 69.0,
+      "change": -4.0
     },
     {
       "code": "002738",
       "name": "中矿资源",
-      "previous_score": 64.0,
-      "current_score": 58.0,
-      "change": -6.0
+      "previous_score": 58.0,
+      "current_score": 61.0,
+      "change": 3.0
     },
     {
-      "code": "002959",
-      "name": "小熊电器",
-      "previous_score": 67.0,
-      "current_score": 62.0,
-      "change": -5.0
+      "code": "002833",
+      "name": "弘亚数控",
+      "previous_score": 80.0,
+      "current_score": 73.0,
+      "change": -7.0
     },
     {
-      "code": "300207",
-      "name": "欣旺达",
-      "previous_score": 81.0,
-      "current_score": 79.0,
-      "change": -2.0
-    },
-    {
-      "code": "300599",
-      "name": "雄塑科技",
-      "previous_score": 67.0,
-      "current_score": 65.0,
-      "change": -2.0
+      "code": "002968",
+      "name": "新大正",
+      "previous_score": 74.0,
+      "current_score": 71.0,
+      "change": -3.0
     },
     {
       "code": "300675",
       "name": "建科院",
-      "previous_score": 72.0,
-      "current_score": 65.0,
-      "change": -7.0
+      "previous_score": 65.0,
+      "current_score": 68.0,
+      "change": 3.0
     },
     {
       "code": "300690",
       "name": "双一科技",
-      "previous_score": 81.0,
-      "current_score": 74.0,
-      "change": -7.0
+      "previous_score": 74.0,
+      "current_score": 71.0,
+      "change": -3.0
+    },
+    {
+      "code": "301103",
+      "name": "何氏眼科",
+      "previous_score": 70.0,
+      "current_score": 61.0,
+      "change": -9.0
     },
     {
       "code": "301311",
       "name": "昆船智能",
+      "previous_score": 69.0,
+      "current_score": 67.0,
+      "change": -2.0
+    },
+    {
+      "code": "600006",
+      "name": "东风股份",
+      "previous_score": 73.0,
+      "current_score": 71.0,
+      "change": -2.0
+    },
+    {
+      "code": "600266",
+      "name": "城建发展",
+      "previous_score": 75.0,
+      "current_score": 70.0,
+      "change": -5.0
+    },
+    {
+      "code": "600478",
+      "name": "科力远",
+      "previous_score": 60.0,
+      "current_score": 61.0,
+      "change": 1.0
+    },
+    {
+      "code": "600648",
+      "name": "外高桥",
+      "previous_score": 71.0,
+      "current_score": 67.0,
+      "change": -4.0
+    },
+    {
+      "code": "600657",
+      "name": "信达地产",
+      "previous_score": 70.0,
+      "current_score": 64.0,
+      "change": -6.0
+    },
+    {
+      "code": "603116",
+      "name": "红蜻蜓",
+      "previous_score": 70.0,
+      "current_score": 68.0,
+      "change": -2.0
+    },
+    {
+      "code": "603500",
+      "name": "祥和实业",
       "previous_score": 74.0,
       "current_score": 69.0,
       "change": -5.0
     },
     {
-      "code": "600241",
-      "name": "时代万恒",
-      "previous_score": 65.0,
-      "current_score": 66.0,
-      "change": 1.0
-    },
-    {
-      "code": "600266",
-      "name": "城建发展",
-      "previous_score": 76.0,
-      "current_score": 75.0,
-      "change": -1.0
-    },
-    {
-      "code": "600356",
-      "name": "恒丰纸业",
-      "previous_score": 78.0,
-      "current_score": 70.0,
-      "change": -8.0
-    },
-    {
-      "code": "600478",
-      "name": "科力远",
-      "previous_score": 63.0,
-      "current_score": 60.0,
-      "change": -3.0
-    },
-    {
-      "code": "600886",
-      "name": "国投电力",
-      "previous_score": 60.0,
-      "current_score": 57.0,
-      "change": -3.0
-    },
-    {
-      "code": "601021",
-      "name": "春秋航空",
-      "previous_score": 65.0,
-      "current_score": 62.0,
-      "change": -3.0
-    },
-    {
-      "code": "601218",
-      "name": "吉鑫科技",
-      "previous_score": 75.0,
-      "current_score": 70.0,
-      "change": -5.0
-    },
-    {
-      "code": "603116",
-      "name": "红蜻蜓",
-      "previous_score": 75.0,
-      "current_score": 70.0,
-      "change": -5.0
-    },
-    {
-      "code": "603500",
-      "name": "祥和实业",
-      "previous_score": 75.0,
-      "current_score": 74.0,
-      "change": -1.0
-    },
-    {
-      "code": "603602",
-      "name": "纵横通信",
-      "previous_score": 79.0,
-      "current_score": 75.0,
+      "code": "603739",
+      "name": "蔚蓝生物",
+      "previous_score": 72.0,
+      "current_score": 68.0,
       "change": -4.0
     },
     {
-      "code": "603727",
-      "name": "博迈科",
-      "previous_score": 59.0,
-      "current_score": 70.0,
-      "change": 11.0
+      "code": "688099",
+      "name": "晶晨股份",
+      "previous_score": 72.0,
+      "current_score": 65.0,
+      "change": -7.0
     },
     {
-      "code": "603755",
-      "name": "日辰股份",
-      "previous_score": 75.0,
-      "current_score": 72.0,
-      "change": -3.0
-    },
-    {
-      "code": "603797",
-      "name": "联泰环保",
+      "code": "688303",
+      "name": "大全能源",
       "previous_score": 66.0,
-      "current_score": 69.0,
-      "change": 3.0
+      "current_score": 63.0,
+      "change": -3.0
     },
     {
       "code": "688335",
       "name": "复洁科技",
-      "previous_score": 55.0,
-      "current_score": 52.0,
-      "change": -3.0
+      "previous_score": 52.0,
+      "current_score": 54.0,
+      "change": 2.0
+    },
+    {
+      "code": "688639",
+      "name": "华恒生物",
+      "previous_score": 71.0,
+      "current_score": 70.0,
+      "change": -1.0
+    },
+    {
+      "code": "688707",
+      "name": "振华新材",
+      "previous_score": 71.0,
+      "current_score": 63.0,
+      "change": -8.0
     }
   ]
 }
