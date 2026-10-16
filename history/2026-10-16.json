@@ -1,0 +1,1048 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-16",
+  "summary": {
+    "total_assets": 893314.64,
+    "cash": 283478.64,
+    "market_value": 609836.0,
+    "daily_pnl": 2419.34,
+    "cumulative_pnl": -106685.36,
+    "daily_return_pct": 0.2715627751094882,
+    "cumulative_return_pct": -10.668536,
+    "positions_count": 14,
+    "position_pct": 68.26665238577083
+  },
+  "trades": {
+    "buys": [
+      {
+        "trade_id": "15301c72-2951-5cdf-b2bc-1ade51d07dea",
+        "order_id": "ec3c2686-9564-51f6-aecc-fe9fd5b21bd4",
+        "code": "301041",
+        "name": "金百泽",
+        "side": "BUY",
+        "quantity": 1200,
+        "reference_close": 36.3,
+        "execution_price": 36.32,
+        "gross_amount": 43584.0,
+        "commission": 13.08,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.44,
+        "slippage_cost": 24.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 72.0,
+          "score_date": "2026-10-15"
+        }
+      },
+      {
+        "trade_id": "1899099f-2f29-50f8-a204-c633e97d9291",
+        "order_id": "1808c256-a94c-5827-a9fa-bc7425eb0764",
+        "code": "002748",
+        "name": "世龙实业",
+        "side": "BUY",
+        "quantity": 3400,
+        "reference_close": 12.9,
+        "execution_price": 12.91,
+        "gross_amount": 43894.0,
+        "commission": 13.17,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.44,
+        "slippage_cost": 34.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 73.0,
+          "score_date": "2026-10-15"
+        }
+      },
+      {
+        "trade_id": "2ece830a-0c4a-58a4-acf4-fc6656ee7b0d",
+        "order_id": "3473a722-de28-5990-80f6-557ac5360f7a",
+        "code": "001333",
+        "name": "光华股份",
+        "side": "BUY",
+        "quantity": 2300,
+        "reference_close": 18.96,
+        "execution_price": 18.97,
+        "gross_amount": 43631.0,
+        "commission": 13.09,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.44,
+        "slippage_cost": 23.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 73.0,
+          "score_date": "2026-10-15"
+        }
+      },
+      {
+        "trade_id": "40c1444b-cc07-50c1-a59a-55849ac47c0a",
+        "order_id": "4cbbd006-4188-5c1d-83ad-e54b4421f686",
+        "code": "600066",
+        "name": "宇通客车",
+        "side": "BUY",
+        "quantity": 1500,
+        "reference_close": 28.71,
+        "execution_price": 28.72,
+        "gross_amount": 43080.0,
+        "commission": 12.92,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.43,
+        "slippage_cost": 15.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 74.0,
+          "score_date": "2026-10-15"
+        }
+      },
+      {
+        "trade_id": "44c43042-458a-5731-a979-9d9e151db1d0",
+        "order_id": "6e02a4bd-c15b-51dd-845a-eb9292c59e73",
+        "code": "300792",
+        "name": "壹网壹创",
+        "side": "BUY",
+        "quantity": 1800,
+        "reference_close": 24.52,
+        "execution_price": 24.53,
+        "gross_amount": 44154.0,
+        "commission": 13.25,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.44,
+        "slippage_cost": 18.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 71.0,
+          "score_date": "2026-10-15"
+        }
+      },
+      {
+        "trade_id": "55920a9c-83aa-5a42-8227-850a8bea1cab",
+        "order_id": "543b0cc6-437d-5441-9bbe-a7e486863f01",
+        "code": "603172",
+        "name": "万丰股份",
+        "side": "BUY",
+        "quantity": 2200,
+        "reference_close": 19.63,
+        "execution_price": 19.64,
+        "gross_amount": 43208.0,
+        "commission": 12.96,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.43,
+        "slippage_cost": 22.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 72.0,
+          "score_date": "2026-10-15"
+        }
+      },
+      {
+        "trade_id": "694bb230-9e80-5c7e-8cb5-dc58c6c06eb1",
+        "order_id": "22a08ba2-be1b-5b03-bf47-f1855bf35e9a",
+        "code": "600801",
+        "name": "华新建材",
+        "side": "BUY",
+        "quantity": 2000,
+        "reference_close": 21.78,
+        "execution_price": 21.79,
+        "gross_amount": 43580.0,
+        "commission": 13.07,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.44,
+        "slippage_cost": 20.0,
+        "signal": {
+          "signal_level": "A",
+          "signal_text": "A级超跌反弹",
+          "score": 67.0,
+          "score_date": "2026-10-15"
+        }
+      },
+      {
+        "trade_id": "69e05039-8ce3-5f5b-a936-4e4deb0d7628",
+        "order_id": "8cc378e4-6af6-5ffc-be6c-350b7d85e05b",
+        "code": "301239",
+        "name": "普瑞眼科",
+        "side": "BUY",
+        "quantity": 1300,
+        "reference_close": 32.99,
+        "execution_price": 33.01,
+        "gross_amount": 42913.0,
+        "commission": 12.87,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.43,
+        "slippage_cost": 26.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 82.0,
+          "score_date": "2026-10-15"
+        }
+      },
+      {
+        "trade_id": "70b7af61-aa15-5f32-88bd-9ba43a40fab6",
+        "order_id": "a4c371a1-7f65-51ad-ab73-6d9811313b49",
+        "code": "300771",
+        "name": "智莱科技",
+        "side": "BUY",
+        "quantity": 3800,
+        "reference_close": 11.59,
+        "execution_price": 11.6,
+        "gross_amount": 44080.0,
+        "commission": 13.22,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.44,
+        "slippage_cost": 38.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 85.0,
+          "score_date": "2026-10-15"
+        }
+      },
+      {
+        "trade_id": "79103065-ac76-5a3b-88c1-ba77b69d844b",
+        "order_id": "f0fe67c2-f2b0-54f7-8984-4e3adfee2be2",
+        "code": "002331",
+        "name": "皖通科技",
+        "side": "BUY",
+        "quantity": 5900,
+        "reference_close": 7.48,
+        "execution_price": 7.48,
+        "gross_amount": 44132.0,
+        "commission": 13.24,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.44,
+        "slippage_cost": 0.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 76.0,
+          "score_date": "2026-10-15"
+        }
+      },
+      {
+        "trade_id": "968dbe37-9b51-5582-aec0-d24b9a8ef672",
+        "order_id": "bf845fae-5af9-5e65-81f9-a466c9a9e9a3",
+        "code": "002552",
+        "name": "宝鼎科技",
+        "side": "BUY",
+        "quantity": 1000,
+        "reference_close": 42.06,
+        "execution_price": 42.08,
+        "gross_amount": 42080.0,
+        "commission": 12.62,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.42,
+        "slippage_cost": 20.0,
+        "signal": {
+          "signal_level": "A",
+          "signal_text": "A级超跌反弹",
+          "score": 57.0,
+          "score_date": "2026-10-15"
+        }
+      },
+      {
+        "trade_id": "ed3e1d38-96ad-5072-b76a-0bea98ae1aba",
+        "order_id": "4115532b-6c30-57e6-b701-ab299e3ab854",
+        "code": "603237",
+        "name": "五芳斋",
+        "side": "BUY",
+        "quantity": 2900,
+        "reference_close": 15.32,
+        "execution_price": 15.33,
+        "gross_amount": 44457.0,
+        "commission": 13.34,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.44,
+        "slippage_cost": 29.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 75.0,
+          "score_date": "2026-10-15"
+        }
+      },
+      {
+        "trade_id": "fedbde31-cf59-5fb4-8a59-1ccb10311098",
+        "order_id": "7e996eef-9078-5984-b057-7eeaedc4d783",
+        "code": "002376",
+        "name": "新北洋",
+        "side": "BUY",
+        "quantity": 6500,
+        "reference_close": 6.78,
+        "execution_price": 6.78,
+        "gross_amount": 44070.0,
+        "commission": 13.22,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.44,
+        "slippage_cost": 0.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 71.0,
+          "score_date": "2026-10-15"
+        }
+      },
+      {
+        "trade_id": "ff5cfa58-58ea-591b-9e51-1f2f262a16f3",
+        "order_id": "48fa73fd-a7d7-5c50-9770-b19b5f2ff62d",
+        "code": "000858",
+        "name": "五粮液",
+        "side": "BUY",
+        "quantity": 600,
+        "reference_close": 72.07,
+        "execution_price": 72.11,
+        "gross_amount": 43266.0,
+        "commission": 12.98,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.43,
+        "slippage_cost": 24.0,
+        "signal": {
+          "signal_level": "B",
+          "signal_text": "B级价值修复",
+          "score": 66.0,
+          "score_date": "2026-10-15"
+        }
+      }
+    ],
+    "sells": [
+      {
+        "trade_id": "0c31e0ad-18af-53db-9e0c-1de7b8798289",
+        "order_id": "ecef3583-a560-5bb6-b556-01d3ab19c47c",
+        "code": "600993",
+        "name": "马应龙",
+        "side": "SELL",
+        "quantity": 1800,
+        "reference_close": 24.57,
+        "execution_price": 24.56,
+        "gross_amount": 44208.0,
+        "commission": 13.26,
+        "stamp_tax": 22.1,
+        "transfer_fee": 0.44,
+        "slippage_cost": 18.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 68.0,
+          "score_date": "2026-10-15"
+        }
+      },
+      {
+        "trade_id": "1ab377db-ad90-5e6c-8a31-56527886bef8",
+        "order_id": "0926105a-d1b7-51f8-936a-446bfdae62fc",
+        "code": "300571",
+        "name": "平治信息",
+        "side": "SELL",
+        "quantity": 1700,
+        "reference_close": 24.62,
+        "execution_price": 24.61,
+        "gross_amount": 41837.0,
+        "commission": 12.55,
+        "stamp_tax": 20.92,
+        "transfer_fee": 0.42,
+        "slippage_cost": 17.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 52.0,
+          "score_date": "2026-10-15"
+        }
+      },
+      {
+        "trade_id": "20c3caaa-048e-5785-85db-bd122a4c480e",
+        "order_id": "6cebe3e4-dd31-5948-976b-b9c6bd4e6c5c",
+        "code": "603173",
+        "name": "福斯达",
+        "side": "SELL",
+        "quantity": 1600,
+        "reference_close": 30.05,
+        "execution_price": 30.03,
+        "gross_amount": 48048.0,
+        "commission": 14.41,
+        "stamp_tax": 24.02,
+        "transfer_fee": 0.48,
+        "slippage_cost": 32.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 62.0,
+          "score_date": "2026-10-15"
+        }
+      },
+      {
+        "trade_id": "2953f8aa-4769-5f81-9e54-d1271f5ac816",
+        "order_id": "0723fa99-d60e-5d2c-9bec-4009c0b386bb",
+        "code": "601808",
+        "name": "中海油服",
+        "side": "SELL",
+        "quantity": 3500,
+        "reference_close": 12.79,
+        "execution_price": 12.78,
+        "gross_amount": 44730.0,
+        "commission": 13.42,
+        "stamp_tax": 22.37,
+        "transfer_fee": 0.45,
+        "slippage_cost": 35.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 70.0,
+          "score_date": "2026-10-15"
+        }
+      },
+      {
+        "trade_id": "30001a87-cb69-5bf1-aa38-f062512df8a4",
+        "order_id": "6a18eb69-85e9-56ff-8fd1-83574e632722",
+        "code": "600968",
+        "name": "海油发展",
+        "side": "SELL",
+        "quantity": 22500,
+        "reference_close": 4.03,
+        "execution_price": 4.03,
+        "gross_amount": 90675.0,
+        "commission": 27.2,
+        "stamp_tax": 45.34,
+        "transfer_fee": 0.91,
+        "slippage_cost": 0.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 66.0,
+          "score_date": "2026-10-15"
+        }
+      },
+      {
+        "trade_id": "4a261705-9328-513e-9f97-ee6e3b71a312",
+        "order_id": "0266343b-65b3-59a2-902f-da24024811e5",
+        "code": "600573",
+        "name": "惠泉啤酒",
+        "side": "SELL",
+        "quantity": 3200,
+        "reference_close": 13.48,
+        "execution_price": 13.47,
+        "gross_amount": 43104.0,
+        "commission": 12.93,
+        "stamp_tax": 21.55,
+        "transfer_fee": 0.43,
+        "slippage_cost": 32.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 71.0,
+          "score_date": "2026-10-15"
+        }
+      },
+      {
+        "trade_id": "5386b751-5b02-5910-b22d-490aa2b99a90",
+        "order_id": "8699691c-6a3f-5c71-bccb-970a72493672",
+        "code": "002811",
+        "name": "郑中设计",
+        "side": "SELL",
+        "quantity": 2200,
+        "reference_close": 20.87,
+        "execution_price": 20.86,
+        "gross_amount": 45892.0,
+        "commission": 13.77,
+        "stamp_tax": 22.95,
+        "transfer_fee": 0.46,
+        "slippage_cost": 22.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 74.0,
+          "score_date": "2026-10-15"
+        }
+      },
+      {
+        "trade_id": "785a8559-fb9a-59f0-8f87-d2d86ae1d39d",
+        "order_id": "23838d53-4399-5586-935f-2cd471aa8c25",
+        "code": "301311",
+        "name": "昆船智能",
+        "side": "SELL",
+        "quantity": 2200,
+        "reference_close": 20.3,
+        "execution_price": 20.29,
+        "gross_amount": 44638.0,
+        "commission": 13.39,
+        "stamp_tax": 22.32,
+        "transfer_fee": 0.45,
+        "slippage_cost": 22.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 67.0,
+          "score_date": "2026-10-15"
+        }
+      },
+      {
+        "trade_id": "b40ccd20-2509-50af-9819-b50020ee330c",
+        "order_id": "cf3cc922-197a-5f83-b006-b88bc8e4bd36",
+        "code": "603968",
+        "name": "醋化股份",
+        "side": "SELL",
+        "quantity": 6200,
+        "reference_close": 13.35,
+        "execution_price": 13.34,
+        "gross_amount": 82708.0,
+        "commission": 24.81,
+        "stamp_tax": 41.35,
+        "transfer_fee": 0.83,
+        "slippage_cost": 62.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 65.0,
+          "score_date": "2026-10-15"
+        }
+      }
+    ]
+  },
+  "positions": [
+    {
+      "code": "603237",
+      "name": "五芳斋",
+      "quantity": 2900,
+      "sellable_quantity": 0,
+      "average_cost": 15.33,
+      "close": 15.32,
+      "market_value": 44428.0,
+      "unrealized_pnl": -29.0,
+      "weight_pct": 4.973387652081914,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 78.0,
+        "score_date": "2026-10-16"
+      }
+    },
+    {
+      "code": "300792",
+      "name": "壹网壹创",
+      "quantity": 1800,
+      "sellable_quantity": 0,
+      "average_cost": 24.54,
+      "close": 24.52,
+      "market_value": 44136.0,
+      "unrealized_pnl": -36.0,
+      "weight_pct": 4.940700400924807,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 68.0,
+        "score_date": "2026-10-16"
+      }
+    },
+    {
+      "code": "002331",
+      "name": "皖通科技",
+      "quantity": 5900,
+      "sellable_quantity": 0,
+      "average_cost": 7.48,
+      "close": 7.48,
+      "market_value": 44132.0,
+      "unrealized_pnl": 0.0,
+      "weight_pct": 4.9402526303610115,
+      "signal": {
+        "signal_level": "S",
+        "signal_text": "S级趋势突破",
+        "score": 76.0,
+        "score_date": "2026-10-16"
+      }
+    },
+    {
+      "code": "002376",
+      "name": "新北洋",
+      "quantity": 6500,
+      "sellable_quantity": 0,
+      "average_cost": 6.78,
+      "close": 6.78,
+      "market_value": 44070.0,
+      "unrealized_pnl": 0.0,
+      "weight_pct": 4.933312186622174,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 74.0,
+        "score_date": "2026-10-16"
+      }
+    },
+    {
+      "code": "300771",
+      "name": "智莱科技",
+      "quantity": 3800,
+      "sellable_quantity": 0,
+      "average_cost": 11.6,
+      "close": 11.59,
+      "market_value": 44042.0,
+      "unrealized_pnl": -38.0,
+      "weight_pct": 4.930177792675602,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 83.0,
+        "score_date": "2026-10-16"
+      }
+    },
+    {
+      "code": "002748",
+      "name": "世龙实业",
+      "quantity": 3400,
+      "sellable_quantity": 0,
+      "average_cost": 12.91,
+      "close": 12.9,
+      "market_value": 43860.0,
+      "unrealized_pnl": -34.0,
+      "weight_pct": 4.909804232022886,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 76.0,
+        "score_date": "2026-10-16"
+      }
+    },
+    {
+      "code": "001333",
+      "name": "光华股份",
+      "quantity": 2300,
+      "sellable_quantity": 0,
+      "average_cost": 18.98,
+      "close": 18.96,
+      "market_value": 43608.0,
+      "unrealized_pnl": -46.0,
+      "weight_pct": 4.881594686503738,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 63.0,
+        "score_date": "2026-10-16"
+      }
+    },
+    {
+      "code": "301041",
+      "name": "金百泽",
+      "quantity": 1200,
+      "sellable_quantity": 0,
+      "average_cost": 36.33,
+      "close": 36.3,
+      "market_value": 43560.0,
+      "unrealized_pnl": -36.0,
+      "weight_pct": 4.8762214397381864,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 69.0,
+        "score_date": "2026-10-16"
+      }
+    },
+    {
+      "code": "600801",
+      "name": "华新建材",
+      "quantity": 2000,
+      "sellable_quantity": 0,
+      "average_cost": 21.8,
+      "close": 21.78,
+      "market_value": 43560.0,
+      "unrealized_pnl": -40.0,
+      "weight_pct": 4.8762214397381864,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 62.0,
+        "score_date": "2026-10-16"
+      }
+    },
+    {
+      "code": "000858",
+      "name": "五粮液",
+      "quantity": 600,
+      "sellable_quantity": 0,
+      "average_cost": 72.13,
+      "close": 72.07,
+      "market_value": 43242.0,
+      "unrealized_pnl": -36.0,
+      "weight_pct": 4.840623679916407,
+      "signal": {
+        "signal_level": "B",
+        "signal_text": "B级价值修复",
+        "score": 66.0,
+        "score_date": "2026-10-16"
+      }
+    },
+    {
+      "code": "603172",
+      "name": "万丰股份",
+      "quantity": 2200,
+      "sellable_quantity": 0,
+      "average_cost": 19.65,
+      "close": 19.63,
+      "market_value": 43186.0,
+      "unrealized_pnl": -44.0,
+      "weight_pct": 4.834354892023263,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 71.0,
+        "score_date": "2026-10-16"
+      }
+    },
+    {
+      "code": "600066",
+      "name": "宇通客车",
+      "quantity": 1500,
+      "sellable_quantity": 0,
+      "average_cost": 28.73,
+      "close": 28.71,
+      "market_value": 43065.0,
+      "unrealized_pnl": -30.0,
+      "weight_pct": 4.820809832468434,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 61.0,
+        "score_date": "2026-10-16"
+      }
+    },
+    {
+      "code": "301239",
+      "name": "普瑞眼科",
+      "quantity": 1300,
+      "sellable_quantity": 0,
+      "average_cost": 33.02,
+      "close": 32.99,
+      "market_value": 42887.0,
+      "unrealized_pnl": -39.0,
+      "weight_pct": 4.800884042379513,
+      "signal": {
+        "signal_level": "S",
+        "signal_text": "S级趋势突破",
+        "score": 87.0,
+        "score_date": "2026-10-16"
+      }
+    },
+    {
+      "code": "002552",
+      "name": "宝鼎科技",
+      "quantity": 1000,
+      "sellable_quantity": 0,
+      "average_cost": 42.09,
+      "close": 42.06,
+      "market_value": 42060.0,
+      "unrealized_pnl": -30.0,
+      "weight_pct": 4.708307478314695,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 50.0,
+        "score_date": "2026-10-16"
+      }
+    }
+  ],
+  "position_changes": {
+    "opened": [
+      {
+        "code": "000858",
+        "name": "五粮液",
+        "quantity_before": 0,
+        "quantity_after": 600,
+        "quantity_change": 600
+      },
+      {
+        "code": "001333",
+        "name": "光华股份",
+        "quantity_before": 0,
+        "quantity_after": 2300,
+        "quantity_change": 2300
+      },
+      {
+        "code": "002331",
+        "name": "皖通科技",
+        "quantity_before": 0,
+        "quantity_after": 5900,
+        "quantity_change": 5900
+      },
+      {
+        "code": "002376",
+        "name": "新北洋",
+        "quantity_before": 0,
+        "quantity_after": 6500,
+        "quantity_change": 6500
+      },
+      {
+        "code": "002552",
+        "name": "宝鼎科技",
+        "quantity_before": 0,
+        "quantity_after": 1000,
+        "quantity_change": 1000
+      },
+      {
+        "code": "002748",
+        "name": "世龙实业",
+        "quantity_before": 0,
+        "quantity_after": 3400,
+        "quantity_change": 3400
+      },
+      {
+        "code": "300771",
+        "name": "智莱科技",
+        "quantity_before": 0,
+        "quantity_after": 3800,
+        "quantity_change": 3800
+      },
+      {
+        "code": "300792",
+        "name": "壹网壹创",
+        "quantity_before": 0,
+        "quantity_after": 1800,
+        "quantity_change": 1800
+      },
+      {
+        "code": "301041",
+        "name": "金百泽",
+        "quantity_before": 0,
+        "quantity_after": 1200,
+        "quantity_change": 1200
+      },
+      {
+        "code": "301239",
+        "name": "普瑞眼科",
+        "quantity_before": 0,
+        "quantity_after": 1300,
+        "quantity_change": 1300
+      },
+      {
+        "code": "600066",
+        "name": "宇通客车",
+        "quantity_before": 0,
+        "quantity_after": 1500,
+        "quantity_change": 1500
+      },
+      {
+        "code": "600801",
+        "name": "华新建材",
+        "quantity_before": 0,
+        "quantity_after": 2000,
+        "quantity_change": 2000
+      },
+      {
+        "code": "603172",
+        "name": "万丰股份",
+        "quantity_before": 0,
+        "quantity_after": 2200,
+        "quantity_change": 2200
+      },
+      {
+        "code": "603237",
+        "name": "五芳斋",
+        "quantity_before": 0,
+        "quantity_after": 2900,
+        "quantity_change": 2900
+      }
+    ],
+    "closed": [
+      {
+        "code": "002811",
+        "name": "郑中设计",
+        "quantity_before": 2200,
+        "quantity_after": 0,
+        "quantity_change": -2200
+      },
+      {
+        "code": "300571",
+        "name": "平治信息",
+        "quantity_before": 1700,
+        "quantity_after": 0,
+        "quantity_change": -1700
+      },
+      {
+        "code": "301311",
+        "name": "昆船智能",
+        "quantity_before": 2200,
+        "quantity_after": 0,
+        "quantity_change": -2200
+      },
+      {
+        "code": "600573",
+        "name": "惠泉啤酒",
+        "quantity_before": 3200,
+        "quantity_after": 0,
+        "quantity_change": -3200
+      },
+      {
+        "code": "600968",
+        "name": "海油发展",
+        "quantity_before": 22500,
+        "quantity_after": 0,
+        "quantity_change": -22500
+      },
+      {
+        "code": "600993",
+        "name": "马应龙",
+        "quantity_before": 1800,
+        "quantity_after": 0,
+        "quantity_change": -1800
+      },
+      {
+        "code": "601808",
+        "name": "中海油服",
+        "quantity_before": 3500,
+        "quantity_after": 0,
+        "quantity_change": -3500
+      },
+      {
+        "code": "603173",
+        "name": "福斯达",
+        "quantity_before": 1600,
+        "quantity_after": 0,
+        "quantity_change": -1600
+      },
+      {
+        "code": "603968",
+        "name": "醋化股份",
+        "quantity_before": 6200,
+        "quantity_after": 0,
+        "quantity_change": -6200
+      }
+    ],
+    "increased": [],
+    "reduced": []
+  },
+  "score_changes": [
+    {
+      "code": "001333",
+      "name": "光华股份",
+      "previous_score": 73.0,
+      "current_score": 63.0,
+      "change": -10.0
+    },
+    {
+      "code": "002376",
+      "name": "新北洋",
+      "previous_score": 71.0,
+      "current_score": 74.0,
+      "change": 3.0
+    },
+    {
+      "code": "002552",
+      "name": "宝鼎科技",
+      "previous_score": 57.0,
+      "current_score": 50.0,
+      "change": -7.0
+    },
+    {
+      "code": "002748",
+      "name": "世龙实业",
+      "previous_score": 73.0,
+      "current_score": 76.0,
+      "change": 3.0
+    },
+    {
+      "code": "002811",
+      "name": "郑中设计",
+      "previous_score": 74.0,
+      "current_score": 76.0,
+      "change": 2.0
+    },
+    {
+      "code": "300571",
+      "name": "平治信息",
+      "previous_score": 52.0,
+      "current_score": 49.0,
+      "change": -3.0
+    },
+    {
+      "code": "300771",
+      "name": "智莱科技",
+      "previous_score": 85.0,
+      "current_score": 83.0,
+      "change": -2.0
+    },
+    {
+      "code": "300792",
+      "name": "壹网壹创",
+      "previous_score": 71.0,
+      "current_score": 68.0,
+      "change": -3.0
+    },
+    {
+      "code": "301041",
+      "name": "金百泽",
+      "previous_score": 72.0,
+      "current_score": 69.0,
+      "change": -3.0
+    },
+    {
+      "code": "301239",
+      "name": "普瑞眼科",
+      "previous_score": 82.0,
+      "current_score": 87.0,
+      "change": 5.0
+    },
+    {
+      "code": "600066",
+      "name": "宇通客车",
+      "previous_score": 74.0,
+      "current_score": 61.0,
+      "change": -13.0
+    },
+    {
+      "code": "600573",
+      "name": "惠泉啤酒",
+      "previous_score": 71.0,
+      "current_score": 66.0,
+      "change": -5.0
+    },
+    {
+      "code": "600801",
+      "name": "华新建材",
+      "previous_score": 67.0,
+      "current_score": 62.0,
+      "change": -5.0
+    },
+    {
+      "code": "600968",
+      "name": "海油发展",
+      "previous_score": 66.0,
+      "current_score": 58.0,
+      "change": -8.0
+    },
+    {
+      "code": "600993",
+      "name": "马应龙",
+      "previous_score": 68.0,
+      "current_score": 71.0,
+      "change": 3.0
+    },
+    {
+      "code": "601808",
+      "name": "中海油服",
+      "previous_score": 70.0,
+      "current_score": 65.0,
+      "change": -5.0
+    },
+    {
+      "code": "603172",
+      "name": "万丰股份",
+      "previous_score": 72.0,
+      "current_score": 71.0,
+      "change": -1.0
+    },
+    {
+      "code": "603237",
+      "name": "五芳斋",
+      "previous_score": 75.0,
+      "current_score": 78.0,
+      "change": 3.0
+    },
+    {
+      "code": "603968",
+      "name": "醋化股份",
+      "previous_score": 65.0,
+      "current_score": 73.0,
+      "change": 8.0
+    }
+  ]
+}
