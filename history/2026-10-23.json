@@ -1,0 +1,1027 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-23",
+  "summary": {
+    "total_assets": 885302.63,
+    "cash": 145839.63,
+    "market_value": 739463.0,
+    "daily_pnl": 10606.07,
+    "cumulative_pnl": -114697.37,
+    "daily_return_pct": 1.2125427816933452,
+    "cumulative_return_pct": -11.469737,
+    "positions_count": 14,
+    "position_pct": 83.52657892815702
+  },
+  "trades": {
+    "buys": [
+      {
+        "trade_id": "1056fc14-bf05-5d5a-a2dc-fb42e9b69d76",
+        "order_id": "afcd9c00-6c31-5a19-a200-4cf3f65a1871",
+        "code": "688569",
+        "name": "铁科轨道",
+        "side": "BUY",
+        "quantity": 2200,
+        "reference_close": 19.27,
+        "execution_price": 19.28,
+        "gross_amount": 42416.0,
+        "commission": 12.72,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.42,
+        "slippage_cost": 22.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 79.0,
+          "score_date": "2026-10-22"
+        }
+      },
+      {
+        "trade_id": "130dc0fe-97d6-554a-94b5-215d1893c4e2",
+        "order_id": "311c7210-b001-59fb-875c-299b9100b2dd",
+        "code": "300842",
+        "name": "帝科股份",
+        "side": "BUY",
+        "quantity": 1700,
+        "reference_close": 50.93,
+        "execution_price": 50.96,
+        "gross_amount": 86632.0,
+        "commission": 25.99,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.87,
+        "slippage_cost": 51.0,
+        "signal": {
+          "signal_level": "A",
+          "signal_text": "A级超跌反弹",
+          "score": 66.0,
+          "score_date": "2026-10-22"
+        }
+      },
+      {
+        "trade_id": "13d2bbe0-4ee8-59c4-8536-1472380f3403",
+        "order_id": "5e809c32-dffe-5228-882b-ae7628705c96",
+        "code": "000570",
+        "name": "苏常柴Ａ",
+        "side": "BUY",
+        "quantity": 7700,
+        "reference_close": 5.73,
+        "execution_price": 5.73,
+        "gross_amount": 44121.0,
+        "commission": 13.24,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.44,
+        "slippage_cost": 0.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 81.0,
+          "score_date": "2026-10-22"
+        }
+      },
+      {
+        "trade_id": "2512f121-8486-5eb8-a637-f3d7572239dc",
+        "order_id": "a410d276-463f-5c4e-aaff-f2eb561a622a",
+        "code": "002747",
+        "name": "埃斯顿",
+        "side": "BUY",
+        "quantity": 1500,
+        "reference_close": 29.18,
+        "execution_price": 29.19,
+        "gross_amount": 43785.0,
+        "commission": 13.14,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.44,
+        "slippage_cost": 15.0,
+        "signal": {
+          "signal_level": "A",
+          "signal_text": "A级超跌反弹",
+          "score": 57.0,
+          "score_date": "2026-10-22"
+        }
+      },
+      {
+        "trade_id": "2abfe38c-2b8e-5106-acb6-511696570ea2",
+        "order_id": "031d4cb2-8e3e-5bd1-b20e-72dc08f77921",
+        "code": "002164",
+        "name": "宁波东力",
+        "side": "BUY",
+        "quantity": 2400,
+        "reference_close": 17.78,
+        "execution_price": 17.79,
+        "gross_amount": 42696.0,
+        "commission": 12.81,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.43,
+        "slippage_cost": 24.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 75.0,
+          "score_date": "2026-10-22"
+        }
+      },
+      {
+        "trade_id": "2be28c82-bf4c-541b-8d08-89cc326004cd",
+        "order_id": "a721f572-232e-5f7f-be67-0d4a94734dd9",
+        "code": "603101",
+        "name": "汇嘉时代",
+        "side": "BUY",
+        "quantity": 5200,
+        "reference_close": 8.44,
+        "execution_price": 8.44,
+        "gross_amount": 43888.0,
+        "commission": 13.17,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.44,
+        "slippage_cost": 0.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 78.0,
+          "score_date": "2026-10-22"
+        }
+      },
+      {
+        "trade_id": "3ede8bd5-365a-5c71-a8b3-76bdeb49fab9",
+        "order_id": "60567011-7920-56d8-8058-3c0511b0175e",
+        "code": "603528",
+        "name": "多伦科技",
+        "side": "BUY",
+        "quantity": 5400,
+        "reference_close": 8.14,
+        "execution_price": 8.14,
+        "gross_amount": 43956.0,
+        "commission": 13.19,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.44,
+        "slippage_cost": 0.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 73.0,
+          "score_date": "2026-10-22"
+        }
+      },
+      {
+        "trade_id": "54b973a6-e845-5b97-860d-39c84f1db14e",
+        "order_id": "64f2e0eb-13de-521b-b8ee-b2d4b23afe66",
+        "code": "600406",
+        "name": "国电南瑞",
+        "side": "BUY",
+        "quantity": 1800,
+        "reference_close": 23.42,
+        "execution_price": 23.43,
+        "gross_amount": 42174.0,
+        "commission": 12.65,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.42,
+        "slippage_cost": 18.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 71.0,
+          "score_date": "2026-10-22"
+        }
+      },
+      {
+        "trade_id": "5e3f8f1c-33ad-5fed-a5d4-d8c301898327",
+        "order_id": "35f8aac6-e687-5143-851b-ffe93f663cd1",
+        "code": "301048",
+        "name": "金鹰重工",
+        "side": "BUY",
+        "quantity": 4600,
+        "reference_close": 9.6,
+        "execution_price": 9.6,
+        "gross_amount": 44160.0,
+        "commission": 13.25,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.44,
+        "slippage_cost": 0.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 78.0,
+          "score_date": "2026-10-22"
+        }
+      },
+      {
+        "trade_id": "b5d3dccb-52aa-5933-824e-74ba7b46be26",
+        "order_id": "b70ddb66-84cc-54b9-af17-395bfca4aa57",
+        "code": "002476",
+        "name": "新叶股份",
+        "side": "BUY",
+        "quantity": 9900,
+        "reference_close": 4.47,
+        "execution_price": 4.47,
+        "gross_amount": 44253.0,
+        "commission": 13.28,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.44,
+        "slippage_cost": 0.0,
+        "signal": {
+          "signal_level": "A",
+          "signal_text": "A级超跌反弹",
+          "score": 60.0,
+          "score_date": "2026-10-22"
+        }
+      },
+      {
+        "trade_id": "c5744266-47c3-5524-b16f-788b76a7fe9d",
+        "order_id": "c4d4777a-cca2-5b9f-ac76-22cfb05ba0f2",
+        "code": "300503",
+        "name": "昊志机电",
+        "side": "BUY",
+        "quantity": 1400,
+        "reference_close": 62.3,
+        "execution_price": 62.33,
+        "gross_amount": 87262.0,
+        "commission": 26.18,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.87,
+        "slippage_cost": 42.0,
+        "signal": {
+          "signal_level": "A",
+          "signal_text": "A级超跌反弹",
+          "score": 51.0,
+          "score_date": "2026-10-22"
+        }
+      },
+      {
+        "trade_id": "d6189f3e-95b9-5c1c-b4cb-8d08d4892a3c",
+        "order_id": "23d3ced0-95f8-5329-ab44-5f9bb7009d5d",
+        "code": "002076",
+        "name": "星光股份",
+        "side": "BUY",
+        "quantity": 17700,
+        "reference_close": 2.49,
+        "execution_price": 2.49,
+        "gross_amount": 44073.0,
+        "commission": 13.22,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.44,
+        "slippage_cost": 0.0,
+        "signal": {
+          "signal_level": "S",
+          "signal_text": "S级趋势突破",
+          "score": 71.0,
+          "score_date": "2026-10-22"
+        }
+      },
+      {
+        "trade_id": "daad2769-581a-535e-88d8-9ea64b4c970d",
+        "order_id": "288f01a4-d683-5514-9c6b-737d1c765bd4",
+        "code": "300780",
+        "name": "德恩精工",
+        "side": "BUY",
+        "quantity": 4700,
+        "reference_close": 18.49,
+        "execution_price": 18.5,
+        "gross_amount": 86950.0,
+        "commission": 26.09,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.87,
+        "slippage_cost": 47.0,
+        "signal": {
+          "signal_level": "A",
+          "signal_text": "A级超跌反弹",
+          "score": 54.0,
+          "score_date": "2026-10-22"
+        }
+      }
+    ],
+    "sells": [
+      {
+        "trade_id": "00beafd5-6d9f-56bc-aba5-24c94745fd6f",
+        "order_id": "b256b777-f3cc-5524-b6c5-70329535fdb7",
+        "code": "002865",
+        "name": "钧达股份",
+        "side": "SELL",
+        "quantity": 1200,
+        "reference_close": 34.32,
+        "execution_price": 34.3,
+        "gross_amount": 41160.0,
+        "commission": 12.35,
+        "stamp_tax": 20.58,
+        "transfer_fee": 0.41,
+        "slippage_cost": 24.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 45.0,
+          "score_date": "2026-10-22"
+        }
+      },
+      {
+        "trade_id": "59ca8cc2-f4c4-5437-a927-048556dd2114",
+        "order_id": "0f4cef84-a05c-5180-9efc-10a542c4641c",
+        "code": "603629",
+        "name": "利通电子",
+        "side": "SELL",
+        "quantity": 500,
+        "reference_close": 83.24,
+        "execution_price": 83.2,
+        "gross_amount": 41600.0,
+        "commission": 12.48,
+        "stamp_tax": 20.8,
+        "transfer_fee": 0.42,
+        "slippage_cost": 20.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 50.0,
+          "score_date": "2026-10-22"
+        }
+      },
+      {
+        "trade_id": "5f46069e-9618-5176-9563-fc645946dd5a",
+        "order_id": "001d70e0-db53-5ae2-9443-4a9d881192f9",
+        "code": "002376",
+        "name": "新北洋",
+        "side": "SELL",
+        "quantity": 11500,
+        "reference_close": 7.8,
+        "execution_price": 7.8,
+        "gross_amount": 89700.0,
+        "commission": 26.91,
+        "stamp_tax": 44.85,
+        "transfer_fee": 0.9,
+        "slippage_cost": 0.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 71.0,
+          "score_date": "2026-10-22"
+        }
+      },
+      {
+        "trade_id": "6b8553d7-fa5a-5521-8448-1787449e1dbf",
+        "order_id": "6ad03516-e264-5265-aaef-f78106a4dd5c",
+        "code": "300855",
+        "name": "图南股份",
+        "side": "SELL",
+        "quantity": 1400,
+        "reference_close": 30.08,
+        "execution_price": 30.06,
+        "gross_amount": 42084.0,
+        "commission": 12.63,
+        "stamp_tax": 21.04,
+        "transfer_fee": 0.42,
+        "slippage_cost": 28.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 62.0,
+          "score_date": "2026-10-22"
+        }
+      },
+      {
+        "trade_id": "6e3ea287-990d-5023-8094-b9e382718c0c",
+        "order_id": "d37c5b93-93e4-567a-acf3-3c2658daec76",
+        "code": "002401",
+        "name": "中远海科",
+        "side": "SELL",
+        "quantity": 3600,
+        "reference_close": 12.3,
+        "execution_price": 12.29,
+        "gross_amount": 44244.0,
+        "commission": 13.27,
+        "stamp_tax": 22.12,
+        "transfer_fee": 0.44,
+        "slippage_cost": 36.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 67.0,
+          "score_date": "2026-10-22"
+        }
+      },
+      {
+        "trade_id": "7d20f80e-a911-5970-9231-2ff011915820",
+        "order_id": "66d3b6db-1e10-529b-9087-4b1b0ae565a8",
+        "code": "603058",
+        "name": "永吉股份",
+        "side": "SELL",
+        "quantity": 4800,
+        "reference_close": 8.54,
+        "execution_price": 8.54,
+        "gross_amount": 40992.0,
+        "commission": 12.3,
+        "stamp_tax": 20.5,
+        "transfer_fee": 0.41,
+        "slippage_cost": 0.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 71.0,
+          "score_date": "2026-10-22"
+        }
+      },
+      {
+        "trade_id": "9542212d-8053-573d-91ba-56caefcb5c3e",
+        "order_id": "37f5f0a0-3961-5237-ab5e-12e7fdb37b84",
+        "code": "002353",
+        "name": "杰瑞股份",
+        "side": "SELL",
+        "quantity": 400,
+        "reference_close": 91.73,
+        "execution_price": 91.68,
+        "gross_amount": 36672.0,
+        "commission": 11.0,
+        "stamp_tax": 18.34,
+        "transfer_fee": 0.37,
+        "slippage_cost": 20.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 53.0,
+          "score_date": "2026-10-22"
+        }
+      },
+      {
+        "trade_id": "b59179dc-b135-50c1-aa31-7a327376b755",
+        "order_id": "a81ba155-7709-51fb-8141-2856bc6495b1",
+        "code": "002791",
+        "name": "坚朗五金",
+        "side": "SELL",
+        "quantity": 2700,
+        "reference_close": 16.5,
+        "execution_price": 16.49,
+        "gross_amount": 44523.0,
+        "commission": 13.36,
+        "stamp_tax": 22.26,
+        "transfer_fee": 0.45,
+        "slippage_cost": 27.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 74.0,
+          "score_date": "2026-10-22"
+        }
+      },
+      {
+        "trade_id": "c1d83148-784d-504e-a68f-28a2feac1d8e",
+        "order_id": "8d1195d1-ce06-5efc-8f58-cea10d52ce99",
+        "code": "301356",
+        "name": "天振股份",
+        "side": "SELL",
+        "quantity": 1900,
+        "reference_close": 23.23,
+        "execution_price": 23.22,
+        "gross_amount": 44118.0,
+        "commission": 13.24,
+        "stamp_tax": 22.06,
+        "transfer_fee": 0.44,
+        "slippage_cost": 19.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 72.0,
+          "score_date": "2026-10-22"
+        }
+      },
+      {
+        "trade_id": "c809dbb3-9bf4-52af-a502-648d9974201f",
+        "order_id": "d2a65551-48db-5163-b037-3f048c3282cb",
+        "code": "301666",
+        "name": "大普微-UW",
+        "side": "SELL",
+        "quantity": 100,
+        "reference_close": 390.3,
+        "execution_price": 390.1,
+        "gross_amount": 39010.0,
+        "commission": 11.7,
+        "stamp_tax": 19.51,
+        "transfer_fee": 0.39,
+        "slippage_cost": 20.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 43.0,
+          "score_date": "2026-10-22"
+        }
+      },
+      {
+        "trade_id": "e0bd10c3-c791-5135-819c-9b798e9f85a3",
+        "order_id": "33feba4c-6c68-5b7e-b056-58f080209cf2",
+        "code": "688003",
+        "name": "天准科技",
+        "side": "SELL",
+        "quantity": 1300,
+        "reference_close": 69.44,
+        "execution_price": 69.41,
+        "gross_amount": 90233.0,
+        "commission": 27.07,
+        "stamp_tax": 45.12,
+        "transfer_fee": 0.9,
+        "slippage_cost": 39.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 51.0,
+          "score_date": "2026-10-22"
+        }
+      }
+    ]
+  },
+  "positions": [
+    {
+      "code": "300503",
+      "name": "昊志机电",
+      "quantity": 1400,
+      "sellable_quantity": 0,
+      "average_cost": 62.35,
+      "close": 62.3,
+      "market_value": 87220.0,
+      "unrealized_pnl": -70.0,
+      "weight_pct": 9.851998293510096,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 51.0,
+        "score_date": "2026-10-23"
+      }
+    },
+    {
+      "code": "300780",
+      "name": "德恩精工",
+      "quantity": 4700,
+      "sellable_quantity": 0,
+      "average_cost": 18.51,
+      "close": 18.49,
+      "market_value": 86903.0,
+      "unrealized_pnl": -94.0,
+      "weight_pct": 9.816191328834073,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 54.0,
+        "score_date": "2026-10-23"
+      }
+    },
+    {
+      "code": "300842",
+      "name": "帝科股份",
+      "quantity": 1700,
+      "sellable_quantity": 0,
+      "average_cost": 50.98,
+      "close": 50.93,
+      "market_value": 86581.0,
+      "unrealized_pnl": -85.0,
+      "weight_pct": 9.7798195855354,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 68.0,
+        "score_date": "2026-10-23"
+      }
+    },
+    {
+      "code": "002476",
+      "name": "新叶股份",
+      "quantity": 9900,
+      "sellable_quantity": 0,
+      "average_cost": 4.47,
+      "close": 4.47,
+      "market_value": 44253.0,
+      "unrealized_pnl": 0.0,
+      "weight_pct": 4.998629677627864,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 60.0,
+        "score_date": "2026-10-23"
+      }
+    },
+    {
+      "code": "301048",
+      "name": "金鹰重工",
+      "quantity": 4600,
+      "sellable_quantity": 0,
+      "average_cost": 9.6,
+      "close": 9.6,
+      "market_value": 44160.0,
+      "unrealized_pnl": 0.0,
+      "weight_pct": 4.98812479524657,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 73.0,
+        "score_date": "2026-10-23"
+      }
+    },
+    {
+      "code": "000570",
+      "name": "苏常柴Ａ",
+      "quantity": 7700,
+      "sellable_quantity": 0,
+      "average_cost": 5.73,
+      "close": 5.73,
+      "market_value": 44121.0,
+      "unrealized_pnl": 0.0,
+      "weight_pct": 4.983719521989898,
+      "signal": {
+        "signal_level": "S",
+        "signal_text": "S级趋势突破",
+        "score": 77.0,
+        "score_date": "2026-10-23"
+      }
+    },
+    {
+      "code": "002076",
+      "name": "星光股份",
+      "quantity": 17700,
+      "sellable_quantity": 0,
+      "average_cost": 2.49,
+      "close": 2.49,
+      "market_value": 44073.0,
+      "unrealized_pnl": 0.0,
+      "weight_pct": 4.9782976472124565,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 74.0,
+        "score_date": "2026-10-23"
+      }
+    },
+    {
+      "code": "603528",
+      "name": "多伦科技",
+      "quantity": 5400,
+      "sellable_quantity": 0,
+      "average_cost": 8.14,
+      "close": 8.14,
+      "market_value": 43956.0,
+      "unrealized_pnl": 0.0,
+      "weight_pct": 4.965081827442442,
+      "signal": {
+        "signal_level": "S",
+        "signal_text": "S级趋势突破",
+        "score": 73.0,
+        "score_date": "2026-10-23"
+      }
+    },
+    {
+      "code": "603101",
+      "name": "汇嘉时代",
+      "quantity": 5200,
+      "sellable_quantity": 0,
+      "average_cost": 8.44,
+      "close": 8.44,
+      "market_value": 43888.0,
+      "unrealized_pnl": 0.0,
+      "weight_pct": 4.957400838174399,
+      "signal": {
+        "signal_level": "S",
+        "signal_text": "S级趋势突破",
+        "score": 75.0,
+        "score_date": "2026-10-23"
+      }
+    },
+    {
+      "code": "002747",
+      "name": "埃斯顿",
+      "quantity": 1500,
+      "sellable_quantity": 0,
+      "average_cost": 29.2,
+      "close": 29.18,
+      "market_value": 43770.0,
+      "unrealized_pnl": -30.0,
+      "weight_pct": 4.944072062679854,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 55.0,
+        "score_date": "2026-10-23"
+      }
+    },
+    {
+      "code": "300138",
+      "name": "晨光生物",
+      "quantity": 3400,
+      "sellable_quantity": 3400,
+      "average_cost": 12.77,
+      "close": 12.74,
+      "market_value": 43316.0,
+      "unrealized_pnl": -102.0,
+      "weight_pct": 4.892790163743217,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 65.0,
+        "score_date": "2026-10-23"
+      }
+    },
+    {
+      "code": "002164",
+      "name": "宁波东力",
+      "quantity": 2400,
+      "sellable_quantity": 0,
+      "average_cost": 17.8,
+      "close": 17.78,
+      "market_value": 42672.0,
+      "unrealized_pnl": -48.0,
+      "weight_pct": 4.8200466771458705,
+      "signal": {
+        "signal_level": "S",
+        "signal_text": "S级趋势突破",
+        "score": 75.0,
+        "score_date": "2026-10-23"
+      }
+    },
+    {
+      "code": "688569",
+      "name": "铁科轨道",
+      "quantity": 2200,
+      "sellable_quantity": 0,
+      "average_cost": 19.29,
+      "close": 19.27,
+      "market_value": 42394.0,
+      "unrealized_pnl": -44.0,
+      "weight_pct": 4.78864498572652,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 79.0,
+        "score_date": "2026-10-23"
+      }
+    },
+    {
+      "code": "600406",
+      "name": "国电南瑞",
+      "quantity": 1800,
+      "sellable_quantity": 0,
+      "average_cost": 23.44,
+      "close": 23.42,
+      "market_value": 42156.0,
+      "unrealized_pnl": -36.0,
+      "weight_pct": 4.76176152328837,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 71.0,
+        "score_date": "2026-10-23"
+      }
+    }
+  ],
+  "position_changes": {
+    "opened": [
+      {
+        "code": "000570",
+        "name": "苏常柴Ａ",
+        "quantity_before": 0,
+        "quantity_after": 7700,
+        "quantity_change": 7700
+      },
+      {
+        "code": "002076",
+        "name": "星光股份",
+        "quantity_before": 0,
+        "quantity_after": 17700,
+        "quantity_change": 17700
+      },
+      {
+        "code": "002164",
+        "name": "宁波东力",
+        "quantity_before": 0,
+        "quantity_after": 2400,
+        "quantity_change": 2400
+      },
+      {
+        "code": "002476",
+        "name": "新叶股份",
+        "quantity_before": 0,
+        "quantity_after": 9900,
+        "quantity_change": 9900
+      },
+      {
+        "code": "002747",
+        "name": "埃斯顿",
+        "quantity_before": 0,
+        "quantity_after": 1500,
+        "quantity_change": 1500
+      },
+      {
+        "code": "300503",
+        "name": "昊志机电",
+        "quantity_before": 0,
+        "quantity_after": 1400,
+        "quantity_change": 1400
+      },
+      {
+        "code": "300780",
+        "name": "德恩精工",
+        "quantity_before": 0,
+        "quantity_after": 4700,
+        "quantity_change": 4700
+      },
+      {
+        "code": "300842",
+        "name": "帝科股份",
+        "quantity_before": 0,
+        "quantity_after": 1700,
+        "quantity_change": 1700
+      },
+      {
+        "code": "301048",
+        "name": "金鹰重工",
+        "quantity_before": 0,
+        "quantity_after": 4600,
+        "quantity_change": 4600
+      },
+      {
+        "code": "600406",
+        "name": "国电南瑞",
+        "quantity_before": 0,
+        "quantity_after": 1800,
+        "quantity_change": 1800
+      },
+      {
+        "code": "603101",
+        "name": "汇嘉时代",
+        "quantity_before": 0,
+        "quantity_after": 5200,
+        "quantity_change": 5200
+      },
+      {
+        "code": "603528",
+        "name": "多伦科技",
+        "quantity_before": 0,
+        "quantity_after": 5400,
+        "quantity_change": 5400
+      },
+      {
+        "code": "688569",
+        "name": "铁科轨道",
+        "quantity_before": 0,
+        "quantity_after": 2200,
+        "quantity_change": 2200
+      }
+    ],
+    "closed": [
+      {
+        "code": "002353",
+        "name": "杰瑞股份",
+        "quantity_before": 400,
+        "quantity_after": 0,
+        "quantity_change": -400
+      },
+      {
+        "code": "002376",
+        "name": "新北洋",
+        "quantity_before": 11500,
+        "quantity_after": 0,
+        "quantity_change": -11500
+      },
+      {
+        "code": "002401",
+        "name": "中远海科",
+        "quantity_before": 3600,
+        "quantity_after": 0,
+        "quantity_change": -3600
+      },
+      {
+        "code": "002791",
+        "name": "坚朗五金",
+        "quantity_before": 2700,
+        "quantity_after": 0,
+        "quantity_change": -2700
+      },
+      {
+        "code": "002865",
+        "name": "钧达股份",
+        "quantity_before": 1200,
+        "quantity_after": 0,
+        "quantity_change": -1200
+      },
+      {
+        "code": "300855",
+        "name": "图南股份",
+        "quantity_before": 1400,
+        "quantity_after": 0,
+        "quantity_change": -1400
+      },
+      {
+        "code": "301356",
+        "name": "天振股份",
+        "quantity_before": 1900,
+        "quantity_after": 0,
+        "quantity_change": -1900
+      },
+      {
+        "code": "301666",
+        "name": "大普微-UW",
+        "quantity_before": 100,
+        "quantity_after": 0,
+        "quantity_change": -100
+      },
+      {
+        "code": "603058",
+        "name": "永吉股份",
+        "quantity_before": 4800,
+        "quantity_after": 0,
+        "quantity_change": -4800
+      },
+      {
+        "code": "603629",
+        "name": "利通电子",
+        "quantity_before": 500,
+        "quantity_after": 0,
+        "quantity_change": -500
+      },
+      {
+        "code": "688003",
+        "name": "天准科技",
+        "quantity_before": 1300,
+        "quantity_after": 0,
+        "quantity_change": -1300
+      }
+    ],
+    "increased": [],
+    "reduced": []
+  },
+  "score_changes": [
+    {
+      "code": "000570",
+      "name": "苏常柴Ａ",
+      "previous_score": 81.0,
+      "current_score": 77.0,
+      "change": -4.0
+    },
+    {
+      "code": "002076",
+      "name": "星光股份",
+      "previous_score": 71.0,
+      "current_score": 74.0,
+      "change": 3.0
+    },
+    {
+      "code": "002401",
+      "name": "中远海科",
+      "previous_score": 67.0,
+      "current_score": 70.0,
+      "change": 3.0
+    },
+    {
+      "code": "002747",
+      "name": "埃斯顿",
+      "previous_score": 57.0,
+      "current_score": 55.0,
+      "change": -2.0
+    },
+    {
+      "code": "300138",
+      "name": "晨光生物",
+      "previous_score": 70.0,
+      "current_score": 65.0,
+      "change": -5.0
+    },
+    {
+      "code": "300842",
+      "name": "帝科股份",
+      "previous_score": 66.0,
+      "current_score": 68.0,
+      "change": 2.0
+    },
+    {
+      "code": "301048",
+      "name": "金鹰重工",
+      "previous_score": 78.0,
+      "current_score": 73.0,
+      "change": -5.0
+    },
+    {
+      "code": "301356",
+      "name": "天振股份",
+      "previous_score": 72.0,
+      "current_score": 64.0,
+      "change": -8.0
+    },
+    {
+      "code": "301666",
+      "name": "大普微-UW",
+      "previous_score": 43.0,
+      "current_score": 51.0,
+      "change": 8.0
+    },
+    {
+      "code": "603101",
+      "name": "汇嘉时代",
+      "previous_score": 78.0,
+      "current_score": 75.0,
+      "change": -3.0
+    },
+    {
+      "code": "603629",
+      "name": "利通电子",
+      "previous_score": 50.0,
+      "current_score": 49.0,
+      "change": -1.0
+    },
+    {
+      "code": "688003",
+      "name": "天准科技",
+      "previous_score": 51.0,
+      "current_score": 56.0,
+      "change": 5.0
+    }
+  ]
+}
