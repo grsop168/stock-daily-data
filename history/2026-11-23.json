@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-23",
+  "summary": {
+    "total_assets": 780497.89,
+    "cash": 742017.89,
+    "market_value": 38480.0,
+    "daily_pnl": 7655.83,
+    "cumulative_pnl": -219502.11,
+    "daily_return_pct": 0.9906073176193335,
+    "cumulative_return_pct": -21.950211,
+    "positions_count": 1,
+    "position_pct": 4.930186294289662
+  },
+  "trades": {
+    "buys": [
+      {
+        "trade_id": "30c8b972-30c8-585e-8745-b2a4bc29987c",
+        "order_id": "b57af274-0a21-5601-95e4-40e46947c955",
+        "code": "688669",
+        "name": "聚石化学",
+        "side": "BUY",
+        "quantity": 1300,
+        "reference_close": 29.6,
+        "execution_price": 29.61,
+        "gross_amount": 38493.0,
+        "commission": 11.55,
+        "stamp_tax": 0.0,
+        "transfer_fee": 0.38,
+        "slippage_cost": 13.0,
+        "signal": {
+          "signal_level": "A",
+          "signal_text": "A级超跌反弹",
+          "score": 51.0,
+          "score_date": "2026-11-20"
+        }
+      }
+    ],
+    "sells": [
+      {
+        "trade_id": "974df4c4-73d0-560b-a2f7-8549bcb9af13",
+        "order_id": "39793de5-70ae-55c2-9bcb-3f2745e7d5cd",
+        "code": "601616",
+        "name": "广电电气",
+        "side": "SELL",
+        "quantity": 10800,
+        "reference_close": 3.36,
+        "execution_price": 3.36,
+        "gross_amount": 36288.0,
+        "commission": 10.89,
+        "stamp_tax": 18.14,
+        "transfer_fee": 0.36,
+        "slippage_cost": 0.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 75.0,
+          "score_date": "2026-11-20"
+        }
+      },
+      {
+        "trade_id": "c6eb9702-9836-5954-acb4-e35dd0bda93b",
+        "order_id": "d34c5cfd-1005-5460-8fdf-475649f5cb79",
+        "code": "300786",
+        "name": "国林科技",
+        "side": "SELL",
+        "quantity": 3100,
+        "reference_close": 13.01,
+        "execution_price": 13.0,
+        "gross_amount": 40300.0,
+        "commission": 12.09,
+        "stamp_tax": 20.15,
+        "transfer_fee": 0.4,
+        "slippage_cost": 31.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 78.0,
+          "score_date": "2026-11-20"
+        }
+      },
+      {
+        "trade_id": "d2eeced4-d266-55d9-8053-3c99e3fe96c6",
+        "order_id": "af38bf0e-bb08-53a3-8744-f39172b3790b",
+        "code": "603928",
+        "name": "兴业股份",
+        "side": "SELL",
+        "quantity": 3000,
+        "reference_close": 13.25,
+        "execution_price": 13.24,
+        "gross_amount": 39720.0,
+        "commission": 11.92,
+        "stamp_tax": 19.86,
+        "transfer_fee": 0.4,
+        "slippage_cost": 30.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 77.0,
+          "score_date": "2026-11-20"
+        }
+      },
+      {
+        "trade_id": "ea3ce55a-4fa0-54f6-90e5-818b04a84f3d",
+        "order_id": "d81a6b7d-1e44-5c2d-b369-977e39cd16d5",
+        "code": "600983",
+        "name": "惠而浦",
+        "side": "SELL",
+        "quantity": 4600,
+        "reference_close": 8.7,
+        "execution_price": 8.7,
+        "gross_amount": 40020.0,
+        "commission": 12.01,
+        "stamp_tax": 20.01,
+        "transfer_fee": 0.4,
+        "slippage_cost": 0.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 73.0,
+          "score_date": "2026-11-20"
+        }
+      },
+      {
+        "trade_id": "fc930f2b-069f-5400-ba02-a36a06e66d1a",
+        "order_id": "7cd94dfd-5d3c-5d5d-b914-9d05caabcfd4",
+        "code": "603706",
+        "name": "东方环宇",
+        "side": "SELL",
+        "quantity": 1700,
+        "reference_close": 23.69,
+        "execution_price": 23.68,
+        "gross_amount": 40256.0,
+        "commission": 12.08,
+        "stamp_tax": 20.13,
+        "transfer_fee": 0.4,
+        "slippage_cost": 17.0,
+        "signal": {
+          "signal_level": "D",
+          "signal_text": "D级暂不参与",
+          "score": 71.0,
+          "score_date": "2026-11-20"
+        }
+      }
+    ]
+  },
+  "positions": [
+    {
+      "code": "688669",
+      "name": "聚石化学",
+      "quantity": 1300,
+      "sellable_quantity": 0,
+      "average_cost": 29.62,
+      "close": 29.6,
+      "market_value": 38480.0,
+      "unrealized_pnl": -26.0,
+      "weight_pct": 4.930186294289662,
+      "signal": {
+        "signal_level": "D",
+        "signal_text": "D级暂不参与",
+        "score": 50.0,
+        "score_date": "2026-11-23"
+      }
+    }
+  ],
+  "position_changes": {
+    "opened": [
+      {
+        "code": "688669",
+        "name": "聚石化学",
+        "quantity_before": 0,
+        "quantity_after": 1300,
+        "quantity_change": 1300
+      }
+    ],
+    "closed": [
+      {
+        "code": "300786",
+        "name": "国林科技",
+        "quantity_before": 3100,
+        "quantity_after": 0,
+        "quantity_change": -3100
+      },
+      {
+        "code": "600983",
+        "name": "惠而浦",
+        "quantity_before": 4600,
+        "quantity_after": 0,
+        "quantity_change": -4600
+      },
+      {
+        "code": "601616",
+        "name": "广电电气",
+        "quantity_before": 10800,
+        "quantity_after": 0,
+        "quantity_change": -10800
+      },
+      {
+        "code": "603706",
+        "name": "东方环宇",
+        "quantity_before": 1700,
+        "quantity_after": 0,
+        "quantity_change": -1700
+      },
+      {
+        "code": "603928",
+        "name": "兴业股份",
+        "quantity_before": 3000,
+        "quantity_after": 0,
+        "quantity_change": -3000
+      }
+    ],
+    "increased": [],
+    "reduced": []
+  },
+  "score_changes": [
+    {
+      "code": "603706",
+      "name": "东方环宇",
+      "previous_score": 71.0,
+      "current_score": 69.0,
+      "change": -2.0
+    },
+    {
+      "code": "688669",
+      "name": "聚石化学",
+      "previous_score": 51.0,
+      "current_score": 50.0,
+      "change": -1.0
+    }
+  ]
+}
